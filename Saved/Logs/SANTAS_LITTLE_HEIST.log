@@ -4865,3 +4865,9 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2024.12.18-09.14.35:719][193]LogSlate: Window 'View Changes' being destroyed
 [2024.12.18-09.14.35:794][193]LogSlate: Window 'View Changes' being destroyed
 [2024.12.18-09.14.48:668][574]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.12.18-09.17.10:630][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3660.835205
+[2024.12.18-09.17.10:963][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-09.17.10:963][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3661.132812, Update Interval: 325.968811
+[2024.12.18-09.17.38:466][ 79]LogDerivedDataCache: C:/Users/ivis3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.18-09.18.10:814][  4]LogSlate: Window 'View Changes' being destroyed
+[2024.12.18-09.18.10:863][  4]LogSlate: Window 'View Changes' being destroyed
