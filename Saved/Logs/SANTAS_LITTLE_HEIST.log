@@ -5233,3 +5233,691 @@ Sampler Limit: 32
 [2024.12.18-21.57.36:268][405]AssetCheck: /Game/Assets/textures/snow_01_translucent_2k Validating asset
 [2024.12.18-21.57.36:276][405]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
 [2024.12.18-21.57.37:679][436]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/Main/2/': No such file or directory
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: ================================================
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Total job queries 1,383, among them cache hits 388 (28.05%), DDC hits 558 (40.35%), Duplicates 74 (5.35%)
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Tracking 921 distinct input hashes that result in 531 distinct outputs (57.65%)
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: RAM used: 323.35 KiB of 819.20 MiB budget. Usage: 0.04%
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Shaders Compiled: 363
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Jobs assigned 363, completed 363 (100%)
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Average time worker was idle: 25.25 s
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.29 s
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 3.53 s
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Job life time (pending + execution): average 1.15 s, max 3.55
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Shader code size: average 8.263 KiB, min 2.777 KiB, max 13.854 KiB
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 93.55 s
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Jobs were issued in 363 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Average processing rate: 3.88 jobs/sec
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Total thread time: 300.151 s
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Total thread preprocess time: 32.752 s
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Percentage time preprocessing: 10.91%
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Effective parallelization: 3.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   19 times, average 1.93 sec, max 2.10 sec, min 1.82 sec)
+[2024.12.18-21.57.58:810][977]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   19 times, average 1.41 sec, max 1.58 sec, min 1.32 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   19 times, average 1.23 sec, max 1.65 sec, min 1.05 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.91 sec, max 0.91 sec, min 0.91 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   19 times, average 0.88 sec, max 1.06 sec, min 0.70 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.31% of total time (compiled   64 times, average 0.86 sec, max 1.31 sec, min 0.63 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.29% of total time (compiled   65 times, average 0.61 sec, max 1.12 sec, min 0.38 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.17% of total time (compiled   58 times, average 0.68 sec, max 1.02 sec, min 0.52 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.22% of total time (compiled   19 times, average 1.93 sec, max 2.10 sec, min 1.82 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.16% of total time (compiled   57 times, average 0.59 sec, max 0.90 sec, min 0.44 sec)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: === Material stats ===
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: Materials Translated:    329
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: Material Total Translate Time: 1.02 s
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: Material Translation Only: 0.36 s (35%)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: Material Cache Hits: 53 (16%)
+[2024.12.18-21.57.58:811][977]LogShaderCompilers: Display: ================================================
+[2024.12.18-21.58.10:373][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.18-21.58.10:376][300]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Main' took 0.041
+[2024.12.18-21.58.10:377][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Main/9/30/SXCYB6KKKXA3V0EZM96BBY_Auto2
+[2024.12.18-21.58.10:377][300]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/SXCYB6KKKXA3V0EZM96BBY_Auto296C3FF5644307F61B88718AD166666EF.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Main/9/30/SXCYB6KKKXA3V0EZM96BBY_Auto2.uasset'
+[2024.12.18-21.58.10:378][300]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.12.18-21.58.42:354][ 56]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2024.12.18-21.58.47:624][178]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2024.12.18-21.58.47:783][179]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2024.12.18-21.59.06:972][760]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 64760
+[2024.12.18-21.59.06:972][760]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.12.18-21.59.06:973][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-21.59.12:117][ 80]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.12.18-21.59.12:254][ 80]LogContentBrowser: Creating deferred item: NewFolder
+[2024.12.18-21.59.12:268][ 81]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.12.18-21.59.13:983][127]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2024.12.18-21.59.14:248][127]LogContentBrowser: End creating deferred item NewFolder
+[2024.12.18-21.59.36:281][723]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2024.12.18-21.59.47:659][723]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.12.18-21.59.47:782][723]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2024.12.18-21.59.47:787][723]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2024.12.18-21.59.47:819][725]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace1D).
+[2024.12.18-21.59.48:212][730]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Unreal Engine/UE_5.5/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-21.59.48:212][730]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'D:/Unreal Engine/UE_5.5/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-21.59.48:212][730]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'D:/Unreal Engine/UE_5.5/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-21.59.56:997][941]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> BS_AI
+[2024.12.18-21.59.57:395][941]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2024.12.18-21.59.57:396][941]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2024.12.18-22.00.01:656][ 27]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/AI/Animations/BS_AI.BS_AI
+[2024.12.18-22.00.02:715][ 27]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2024.12.18-22.00.02:933][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.18-22.00.04:175][ 27]LogStreaming: Display: FlushAsyncLoading(655): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.18-22.00.05:080][ 27]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2024.12.18-22.00.06:671][ 27]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2024.12.18-22.00.07:120][ 27]LogSlate: Took 0.055430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.12.18-22.00.29:968][529]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.18-22.00.40:830][776]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.18-22.00.52:881][ 68]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.18-22.01.35:863][502]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2024.12.18-22.01.47:094][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.01.47:158][837]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Animations/BS_AI] ([1] browsable assets)...
+[2024.12.18-22.01.47:169][837]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/AI/Animations/BS_AI.BS_AI]
+[2024.12.18-22.01.47:169][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Animations/BS_AI]
+[2024.12.18-22.01.47:169][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Animations/BS_AI" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/BS_AI.uasset" SILENT=true
+[2024.12.18-22.01.47:171][837]LogSavePackage: Moving output files for package: /Game/AI/Animations/BS_AI
+[2024.12.18-22.01.47:171][837]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BS_AI8F44DFA5453792461BF415B569636738.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/BS_AI.uasset'
+[2024.12.18-22.01.47:599][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 504.402 ms (total: 12.1 sec)
+[2024.12.18-22.01.47:655][837]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.01.47:655][837]LogContentValidation: Enabled validators:
+[2024.12.18-22.01.47:655][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.01.47:655][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.01.47:655][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.01.47:655][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.01.47:655][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.01.47:655][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.01.47:655][837]AssetCheck: /Game/AI/Animations/BS_AI Validating asset
+[2024.12.18-22.02.08:626][480]LogStreaming: Display: FlushAsyncLoading(656): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.18-22.02.10:707][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim (Required Memory Estimate: 2.80 MB)
+[2024.12.18-22.02.10:707][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim (Required Memory Estimate: 2.80 MB)
+[2024.12.18-22.02.10:707][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2024.12.18-22.02.10:745][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/eb1f3645132c19c6f45501b2ca3c9f8f718c081d
+[2024.12.18-22.02.10:749][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2024.12.18-22.02.10:755][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2024.12.18-22.02.10:783][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/1fb58284e95dc98903d95980509ebeafe8b05488
+[2024.12.18-22.02.10:785][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/8d77eedbc5bc865a73c963ae0494c57c91acaf0d
+[2024.12.18-22.02.10:787][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2024.12.18-22.02.10:787][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2024.12.18-22.02.10:814][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/49dcf63837ae8f0e33a27bcef11a767527a39b20
+[2024.12.18-22.02.10:822][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2024.12.18-22.02.10:823][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/4dcd365de0f93bc0c094c751bef04a34b3d44e1a
+[2024.12.18-22.02.10:824][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim (Required Memory Estimate: 4.61 MB)
+[2024.12.18-22.02.10:832][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/3c589734e79e4e99d4a5eef6cbd5f5a4c4796868
+[2024.12.18-22.02.10:849][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/1319c50ce557b5dfded879a23133bdb4ae578fcc
+[2024.12.18-22.02.10:857][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim (Required Memory Estimate: 4.61 MB)
+[2024.12.18-22.02.10:867][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/e0a14c4fcca154095db338afcd243aca2f0daa7a
+[2024.12.18-22.02.10:887][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2024.12.18-22.02.10:902][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/361b1c12382886286f2c15e84e0d602725841af9
+[2024.12.18-22.02.10:907][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2024.12.18-22.02.10:918][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/cc2b1e6f452301a13abebf6c4a7eae6d43660a29
+[2024.12.18-22.02.10:945][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim (Required Memory Estimate: 5.51 MB)
+[2024.12.18-22.02.10:961][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim (Required Memory Estimate: 5.51 MB)
+[2024.12.18-22.02.10:967][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/0111d097422079b6a0998ed49447b61877c6c8e2
+[2024.12.18-22.02.10:994][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/7fc68fd196454c3471deb75402ae225556c50db9
+[2024.12.18-22.02.11:020][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/c6aa84b1fb6b08c5ec00f3eadebc3fcfc16e3c35
+[2024.12.18-22.02.11:039][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/96f0ad002e8a0d6ae8ef4c7c223051d2ee49d14d
+[2024.12.18-22.02.11:342][480]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2024.12.18-22.02.12:070][480]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.12.18-22.02.18:048][480]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.12.18-22.02.18:048][480]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.12.18-22.02.23:079][480]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2024.12.18-22.02.23:114][480]LogSkeletalMesh: Built Skeletal Mesh [11.77s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.12.18-22.02.54:271][575]Cmd: TRANSACTION UNDO
+[2024.12.18-22.02.54:271][575]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.12.18-22.02.54:886][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.18-22.02.55:106][575]Cmd: TRANSACTION UNDO
+[2024.12.18-22.02.55:106][575]LogEditorTransaction: Undo Moving Blendspace Sample
+[2024.12.18-22.02.55:367][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.18-22.02.55:611][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2855.416016
+[2024.12.18-22.02.55:633][577]Cmd: TRANSACTION UNDO
+[2024.12.18-22.02.55:633][577]LogEditorTransaction: Undo Edit Snap to Grid
+[2024.12.18-22.02.55:892][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.18-22.02.55:990][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-22.02.55:990][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2855.779785, Update Interval: 329.416779
+[2024.12.18-22.05.35:334][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.05.35:395][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Animations/BS_AI] ([1] browsable assets)...
+[2024.12.18-22.05.35:408][966]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/AI/Animations/BS_AI.BS_AI]
+[2024.12.18-22.05.35:409][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Animations/BS_AI]
+[2024.12.18-22.05.35:409][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Animations/BS_AI" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/BS_AI.uasset" SILENT=true
+[2024.12.18-22.05.35:410][966]LogSavePackage: Moving output files for package: /Game/AI/Animations/BS_AI
+[2024.12.18-22.05.35:410][966]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BS_AI582D3F2A4390DD2B3C2A3CAF26A0F118.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/BS_AI.uasset'
+[2024.12.18-22.05.35:418][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.332 ms (total: 12.2 sec)
+[2024.12.18-22.05.35:478][966]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.05.35:478][966]LogContentValidation: Enabled validators:
+[2024.12.18-22.05.35:478][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.05.35:478][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.05.35:478][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.05.35:478][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.05.35:479][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.05.35:479][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.05.35:479][966]AssetCheck: /Game/AI/Animations/BS_AI Validating asset
+[2024.12.18-22.05.56:917][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.05.56:962][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/Animations/BS_AI] ([1] browsable assets)...
+[2024.12.18-22.05.56:975][542]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/AI/Animations/BS_AI.BS_AI]
+[2024.12.18-22.05.56:975][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Animations/BS_AI]
+[2024.12.18-22.05.56:975][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Animations/BS_AI" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/BS_AI.uasset" SILENT=true
+[2024.12.18-22.05.56:976][542]LogSavePackage: Moving output files for package: /Game/AI/Animations/BS_AI
+[2024.12.18-22.05.56:977][542]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BS_AI6C9CA06A463EEE578B7D70B48CFC445B.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/BS_AI.uasset'
+[2024.12.18-22.05.56:986][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.944 ms (total: 12.3 sec)
+[2024.12.18-22.05.57:044][542]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.05.57:044][542]LogContentValidation: Enabled validators:
+[2024.12.18-22.05.57:044][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.05.57:044][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.05.57:044][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.05.57:044][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.05.57:044][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.05.57:044][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.05.57:044][542]AssetCheck: /Game/AI/Animations/BS_AI Validating asset
+[2024.12.18-22.05.59:108][604]LogSlate: Window 'BS_AI' being destroyed
+[2024.12.18-22.05.59:161][604]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.05.59:161][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.05.59:480][604]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.05.59:481][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.05.59:780][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.18-22.06.04:003][810]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.18-22.06.13:044][120]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.12.18-22.06.13:050][120]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.12.18-22.06.13:056][120]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.12.18-22.06.13:072][121]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.12.18-22.06.13:339][128]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'D:/Unreal Engine/UE_5.5/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-22.06.18:732][318]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2024.12.18-22.06.19:199][318]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.12.18-22.06.20:609][396]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2024.12.18-22.06.24:152][586]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> AB_AI
+[2024.12.18-22.06.28:175][586]LogMetaData: Removing '/Game/AI/Animations/AB_AI.AB_AI:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/AI/Animations/NewAnimBlueprint.PackageMetaData'
+[2024.12.18-22.06.28:175][586]LogMetaData: Removing '/Game/AI/Animations/AB_AI.SKEL_AB_AI_C:AnimGraph' ref from Metadata '/Game/AI/Animations/NewAnimBlueprint.PackageMetaData'
+[2024.12.18-22.06.28:175][586]LogMetaData: Removing '/Game/AI/Animations/AB_AI.SKEL_AB_AI_C' ref from Metadata '/Game/AI/Animations/NewAnimBlueprint.PackageMetaData'
+[2024.12.18-22.06.28:175][586]LogMetaData: Removing '/Game/AI/Animations/AB_AI.AB_AI_C:AnimGraph' ref from Metadata '/Game/AI/Animations/NewAnimBlueprint.PackageMetaData'
+[2024.12.18-22.06.28:175][586]LogMetaData: Removing '/Game/AI/Animations/AB_AI.AB_AI_C' ref from Metadata '/Game/AI/Animations/NewAnimBlueprint.PackageMetaData'
+[2024.12.18-22.06.28:176][586]LogMetaData: Removing '/Game/AI/Animations/AB_AI.AB_AI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AI/Animations/NewAnimBlueprint.PackageMetaData'
+[2024.12.18-22.06.28:176][586]LogMetaData: Removing '/Game/AI/Animations/AB_AI.AB_AI:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/AI/Animations/NewAnimBlueprint.PackageMetaData'
+[2024.12.18-22.06.28:466][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.06.28:466][586]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/Animations/AB_AI] ([2] browsable assets)...
+[2024.12.18-22.06.28:466][586]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2024.12.18-22.06.28:592][586]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/Animations/AB_AI.AB_AI]
+[2024.12.18-22.06.28:592][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Animations/AB_AI]
+[2024.12.18-22.06.28:592][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Animations/AB_AI" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset" SILENT=true
+[2024.12.18-22.06.28:627][586]LogSavePackage: Moving output files for package: /Game/AI/Animations/AB_AI
+[2024.12.18-22.06.28:627][586]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/AB_AI8FB0520042F12585C7ECF3A7480759CB.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset'
+[2024.12.18-22.06.28:988][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 522.368 ms (total: 12.8 sec)
+[2024.12.18-22.06.29:310][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.12.18-22.06.29:358][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.12.18-22.06.29:389][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.18-22.06.29:444][586]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.06.29:444][586]LogContentValidation: Enabled validators:
+[2024.12.18-22.06.29:444][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.06.29:444][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.06.29:444][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.06.29:444][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.06.29:444][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.06.29:444][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.06.29:444][586]AssetCheck: /Game/AI/Animations/AB_AI Validating asset
+[2024.12.18-22.06.31:277][637]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AI/Animations/AB_AI.AB_AI
+[2024.12.18-22.06.31:294][637]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2024.12.18-22.06.31:350][637]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2024.12.18-22.06.31:361][637]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.18-22.06.32:475][637]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2024.12.18-22.08.05:554][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.08.05:616][337]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/Animations/AB_AI] ([2] browsable assets)...
+[2024.12.18-22.08.05:632][337]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/Animations/AB_AI.AB_AI]
+[2024.12.18-22.08.05:632][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Animations/AB_AI]
+[2024.12.18-22.08.05:632][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Animations/AB_AI" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset" SILENT=true
+[2024.12.18-22.08.05:738][337]LogSavePackage: Moving output files for package: /Game/AI/Animations/AB_AI
+[2024.12.18-22.08.05:739][337]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/AB_AIE4C6AA854C34F53009B0FBB5B67CE7C5.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset'
+[2024.12.18-22.08.05:748][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.075 ms (total: 13.0 sec)
+[2024.12.18-22.08.05:800][337]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.08.05:800][337]LogContentValidation: Enabled validators:
+[2024.12.18-22.08.05:800][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.08.05:800][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.08.05:800][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.08.05:800][337]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.08.05:800][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.08.05:800][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.08.05:800][337]AssetCheck: /Game/AI/Animations/AB_AI Validating asset
+[2024.12.18-22.08.58:078][499]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3217.868896
+[2024.12.18-22.08.58:455][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-22.08.58:456][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3218.229980, Update Interval: 352.446655
+[2024.12.18-22.10.00:121][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.10.00:182][ 17]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/Animations/AB_AI] ([2] browsable assets)...
+[2024.12.18-22.10.00:195][ 17]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/Animations/AB_AI.AB_AI]
+[2024.12.18-22.10.00:195][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Animations/AB_AI]
+[2024.12.18-22.10.00:195][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Animations/AB_AI" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset" SILENT=true
+[2024.12.18-22.10.00:202][ 17]LogSavePackage: Moving output files for package: /Game/AI/Animations/AB_AI
+[2024.12.18-22.10.00:203][ 17]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/AB_AIAF93EF4841D5C4BCFE369BBCFDCF38DE.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset'
+[2024.12.18-22.10.00:210][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.749 ms (total: 13.1 sec)
+[2024.12.18-22.10.00:250][ 17]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.10.00:250][ 17]LogContentValidation: Enabled validators:
+[2024.12.18-22.10.00:250][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.10.00:250][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.10.00:250][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.10.00:250][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.10.00:250][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.10.00:250][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.10.00:250][ 17]AssetCheck: /Game/AI/Animations/AB_AI Validating asset
+[2024.12.18-22.10.11:170][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.10.11:217][484]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/Animations/AB_AI] ([2] browsable assets)...
+[2024.12.18-22.10.11:229][484]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/Animations/AB_AI.AB_AI]
+[2024.12.18-22.10.11:229][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Animations/AB_AI]
+[2024.12.18-22.10.11:229][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Animations/AB_AI" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset" SILENT=true
+[2024.12.18-22.10.11:236][484]LogSavePackage: Moving output files for package: /Game/AI/Animations/AB_AI
+[2024.12.18-22.10.11:236][484]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/AB_AI1748A86147864619EE54439221EB122D.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset'
+[2024.12.18-22.10.11:245][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.517 ms (total: 13.2 sec)
+[2024.12.18-22.10.11:298][484]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.10.11:298][484]LogContentValidation: Enabled validators:
+[2024.12.18-22.10.11:298][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.10.11:298][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.10.11:298][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.10.11:298][484]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.10.11:298][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.10.11:298][484]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.10.11:298][484]AssetCheck: /Game/AI/Animations/AB_AI Validating asset
+[2024.12.18-22.10.15:362][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.12.18-22.10.16:338][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.10.16:401][590]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/Animations/AB_AI] ([2] browsable assets)...
+[2024.12.18-22.10.16:414][590]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AI/Animations/AB_AI.AB_AI]
+[2024.12.18-22.10.16:414][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Animations/AB_AI]
+[2024.12.18-22.10.16:414][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Animations/AB_AI" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset" SILENT=true
+[2024.12.18-22.10.16:423][590]LogSavePackage: Moving output files for package: /Game/AI/Animations/AB_AI
+[2024.12.18-22.10.16:424][590]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/AB_AI4C6A55BC4A9476076B5E079B082A5069.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/Animations/AB_AI.uasset'
+[2024.12.18-22.10.16:433][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.195 ms (total: 13.3 sec)
+[2024.12.18-22.10.16:484][590]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.10.16:484][590]LogContentValidation: Enabled validators:
+[2024.12.18-22.10.16:484][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.10.16:484][590]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.10.16:484][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.10.16:484][590]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.10.16:484][590]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.10.16:484][590]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.10.16:484][590]AssetCheck: /Game/AI/Animations/AB_AI Validating asset
+[2024.12.18-22.10.26:918][838]LogSlate: Window 'AB_AI' being destroyed
+[2024.12.18-22.10.26:942][838]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.10.26:943][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.10.26:968][838]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.10.26:968][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.10.27:034][838]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.10.27:034][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.10.27:075][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.18-22.10.34:561][ 59]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AI/Animations/AB_AI.AB_AI
+[2024.12.18-22.10.34:561][ 59]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2024.12.18-22.10.34:579][ 59]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2024.12.18-22.10.34:591][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.18-22.10.35:337][ 59]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2024.12.18-22.10.39:268][153]LogSlate: Window 'AB_AI' being destroyed
+[2024.12.18-22.10.39:274][153]LogSlate: Window 'AB_AI' being destroyed
+[2024.12.18-22.10.39:293][153]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.10.39:293][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.10.39:319][153]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.10.39:320][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.10.39:384][153]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.10.39:385][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.10.39:442][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.18-22.10.43:844][296]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BB_AI_Character.BB_AI_Character
+[2024.12.18-22.10.43:844][296]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2024.12.18-22.10.46:860][374]LogSlate: Window 'BB_AI_Character' being destroyed
+[2024.12.18-22.10.46:870][374]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.10.46:870][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.10.46:896][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BB_AI_Character.BB_AI_Character
+[2024.12.18-22.10.46:897][374]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2024.12.18-22.10.47:712][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.12.18-22.11.12:897][206]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.12.18-22.11.25:142][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.11.25:203][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BB_AI_Character] ([2] browsable assets)...
+[2024.12.18-22.11.25:218][719]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BB_AI_Character.BB_AI_Character]
+[2024.12.18-22.11.25:218][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_AI_Character]
+[2024.12.18-22.11.25:219][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_AI_Character" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset" SILENT=true
+[2024.12.18-22.11.25:535][719]LogSavePackage: Moving output files for package: /Game/AI/BB_AI_Character
+[2024.12.18-22.11.25:536][719]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BB_AI_Character31F28E5D457E6DF41B4ABA8C01055058.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset'
+[2024.12.18-22.11.25:544][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 402.606 ms (total: 13.7 sec)
+[2024.12.18-22.11.25:603][719]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.11.25:603][719]LogContentValidation: Enabled validators:
+[2024.12.18-22.11.25:603][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.11.25:603][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.11.25:603][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.11.25:603][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.11.25:603][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.11.25:603][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.11.25:603][719]AssetCheck: /Game/AI/BB_AI_Character Validating asset
+[2024.12.18-22.11.39:944][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.12.18-22.11.40:809][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.11.40:869][107]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BB_AI_Character] ([2] browsable assets)...
+[2024.12.18-22.11.40:882][107]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BB_AI_Character.BB_AI_Character]
+[2024.12.18-22.11.40:882][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_AI_Character]
+[2024.12.18-22.11.40:882][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_AI_Character" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset" SILENT=true
+[2024.12.18-22.11.40:887][107]LogSavePackage: Moving output files for package: /Game/AI/BB_AI_Character
+[2024.12.18-22.11.40:887][107]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BB_AI_CharacterE0AD89E74C395C6DA72D869E91A1CDE4.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset'
+[2024.12.18-22.11.40:897][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.464 ms (total: 13.7 sec)
+[2024.12.18-22.11.40:953][107]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.11.40:953][107]LogContentValidation: Enabled validators:
+[2024.12.18-22.11.40:953][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.11.40:953][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.11.40:953][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.11.40:953][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.11.40:953][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.11.40:953][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.11.40:953][107]AssetCheck: /Game/AI/BB_AI_Character Validating asset
+[2024.12.18-22.11.42:885][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.12.18-22.11.44:001][160]LogSlate: Window 'Save Content' being destroyed
+[2024.12.18-22.11.44:126][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.11.44:172][160]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/4/NO/NJ69HO0EVHDKYKYF5PLL3C
+[2024.12.18-22.11.44:172][160]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/NJ69HO0EVHDKYKYF5PLL3C75ED78DA46ED30E71030C0840467DEA6.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/4/NO/NJ69HO0EVHDKYKYF5PLL3C.uasset'
+[2024.12.18-22.11.44:184][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.061 ms (total: 13.8 sec)
+[2024.12.18-22.11.44:235][160]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.11.44:236][160]LogContentValidation: Enabled validators:
+[2024.12.18-22.11.44:236][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.11.44:236][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.11.44:236][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.11.44:236][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.11.44:236][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.11.44:236][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.11.44:236][160]AssetCheck: /Game/ThirdPerson/Maps/Main Validating asset
+[2024.12.18-22.11.52:237][370]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-22.11.52:246][370]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-22.11.52:246][370]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-22.11.52:248][370]LogWorldPartition: Display: GenerateStreaming for 'Main' took 2.135 ms (total: 78.757 ms)
+[2024.12.18-22.11.52:248][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-22.11.52:249][370]LogPlayLevel: Display: Creating online subsystem for client :Context_50
+[2024.12.18-22.11.52:253][370]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.12.18-22.11.52:291][371]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-22.11.52:301][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011097s)
+[2024.12.18-22.11.52:301][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.011144s)
+[2024.12.18-22.11.52:338][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.12.18-22.11.52:339][371]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-22.11.52:341][371]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-22.11.52:341][371]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-22.11.52:341][371]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-22.11.52:341][371]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-22.11.52:346][371]LogWorldPartition: Display: WorldPartition initialize took 5.043 ms (total: 1.90 sec)
+[2024.12.18-22.11.52:346][371]LogPlayLevel: PIE: World Init took: (0.007465s)
+[2024.12.18-22.11.52:347][371]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.12.18-22.11.52:348][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-22.11.52:348][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-22.11.52:348][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-22.11.52:348][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-22.11.52:348][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-22.11.52:348][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-22.11.52:348][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-22.11.52:348][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-22.11.52:348][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-22.11.52:348][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-22.11.52:348][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-22.11.52:350][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-22.11.52:395][371]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-22.11.52:396][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-22.11.52:396][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-22.11.52:396][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-22.11.52:397][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.12.18-22.11.52:397][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.12.18-22.11.52:400][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.12.18-22.11.52:400][371]LogInit: FAudioDevice initialized with ID 16.
+[2024.12.18-22.11.52:400][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.12.18-22.11.52:400][371]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2024.12.18-22.11.52:400][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.18-22.11.52:403][371]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-22.11.52:409][371]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.19-00.11.52
+[2024.12.18-22.11.52:410][371]LogWorld: Bringing up level for play took: 0.006682
+[2024.12.18-22.11.52:417][371]PIE: Server logged in
+[2024.12.18-22.11.52:418][371]PIE: Play in editor total start time 0.172 seconds.
+[2024.12.18-22.11.55:618][415]LogSlate: Window 'BB_AI_Character' being destroyed
+[2024.12.18-22.11.55:671][415]LogSlate: Window 'BB_AI_Character' being destroyed
+[2024.12.18-22.11.55:675][415]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.11.55:675][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.11.55:749][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.12.18-22.12.16:574][ 63]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-22.12.16:574][ 63]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-22.12.16:574][ 63]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-22.12.17:483][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-22.12.17:483][ 82]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-22.12.17:483][ 82]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.12.17:484][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.12.17:484][ 82]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-22.12.17:548][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-22.12.17:556][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.12.17:588][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-22.12.17:588][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.12.18-22.12.17:588][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.18-22.12.17:591][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.12.18-22.12.17:601][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.12.18-22.12.17:636][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.12.18-22.12.36:021][647]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BB_AI_Character.BB_AI_Character
+[2024.12.18-22.12.36:022][647]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2024.12.18-22.12.57:996][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.12.58:054][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BB_AI_Character] ([2] browsable assets)...
+[2024.12.18-22.12.58:130][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BB_AI_Character.BB_AI_Character]
+[2024.12.18-22.12.58:130][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_AI_Character]
+[2024.12.18-22.12.58:130][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_AI_Character" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset" SILENT=true
+[2024.12.18-22.12.58:134][315]LogSavePackage: Moving output files for package: /Game/AI/BB_AI_Character
+[2024.12.18-22.12.58:135][315]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BB_AI_Character79DE240B46C4B5090A32A394FE0C1F8B.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset'
+[2024.12.18-22.12.58:144][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.442 ms (total: 14.0 sec)
+[2024.12.18-22.12.58:187][315]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.12.58:187][315]LogContentValidation: Enabled validators:
+[2024.12.18-22.12.58:187][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.12.58:187][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.12.58:187][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.12.58:187][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.12.58:187][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.12.58:187][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.12.58:187][315]AssetCheck: /Game/AI/BB_AI_Character Validating asset
+[2024.12.18-22.12.59:850][370]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-22.12.59:856][370]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-22.12.59:857][370]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-22.12.59:859][370]LogWorldPartition: Display: GenerateStreaming for 'Main' took 2.080 ms (total: 80.837 ms)
+[2024.12.18-22.12.59:859][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-22.12.59:859][370]LogPlayLevel: Display: Creating online subsystem for client :Context_52
+[2024.12.18-22.12.59:864][370]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.12.18-22.12.59:894][371]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-22.12.59:906][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011612s)
+[2024.12.18-22.12.59:906][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.011682s)
+[2024.12.18-22.12.59:965][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.12.18-22.12.59:967][371]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-22.12.59:968][371]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-22.12.59:968][371]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-22.12.59:968][371]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-22.12.59:968][371]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-22.12.59:972][371]LogWorldPartition: Display: WorldPartition initialize took 3.486 ms (total: 1.90 sec)
+[2024.12.18-22.12.59:972][371]LogPlayLevel: PIE: World Init took: (0.005326s)
+[2024.12.18-22.12.59:973][371]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.12.18-22.12.59:973][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-22.12.59:973][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-22.12.59:973][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-22.12.59:973][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-22.12.59:973][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-22.12.59:973][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-22.12.59:973][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-22.12.59:973][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-22.12.59:973][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-22.12.59:973][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-22.12.59:973][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-22.12.59:976][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-22.13.00:012][371]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-22.13.00:012][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-22.13.00:012][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-22.13.00:012][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-22.13.00:014][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.12.18-22.13.00:014][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.12.18-22.13.00:018][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.12.18-22.13.00:018][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.12.18-22.13.00:018][371]LogInit: FAudioDevice initialized with ID 17.
+[2024.12.18-22.13.00:018][371]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main'.
+[2024.12.18-22.13.00:018][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.18-22.13.00:021][371]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-22.13.00:027][371]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.19-00.13.00
+[2024.12.18-22.13.00:028][371]LogWorld: Bringing up level for play took: 0.006784
+[2024.12.18-22.13.00:035][371]PIE: Server logged in
+[2024.12.18-22.13.00:036][371]PIE: Play in editor total start time 0.179 seconds.
+[2024.12.18-22.13.04:073][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-22.13.04:073][445]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-22.13.04:074][445]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.13.04:076][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.13.04:076][445]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-22.13.04:087][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-22.13.04:094][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.13.04:127][445]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-22.13.04:127][445]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.12.18-22.13.04:127][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.18-22.13.04:130][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.12.18-22.13.04:136][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-22.13.04:139][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.12.18-22.13.04:345][446]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.12.18-22.14.17:695][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.14.17:755][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BB_AI_Character] ([2] browsable assets)...
+[2024.12.18-22.14.17:840][670]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BB_AI_Character.BB_AI_Character]
+[2024.12.18-22.14.17:840][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_AI_Character]
+[2024.12.18-22.14.17:840][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_AI_Character" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset" SILENT=true
+[2024.12.18-22.14.17:844][670]LogSavePackage: Moving output files for package: /Game/AI/BB_AI_Character
+[2024.12.18-22.14.17:845][670]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BB_AI_Character9506995A47CA9511F67F3E871163ABDE.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset'
+[2024.12.18-22.14.17:854][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.513 ms (total: 14.1 sec)
+[2024.12.18-22.14.17:905][670]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.14.17:905][670]LogContentValidation: Enabled validators:
+[2024.12.18-22.14.17:905][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.14.17:905][670]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.14.17:905][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.14.17:905][670]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.14.17:905][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.14.17:905][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.14.17:906][670]AssetCheck: /Game/AI/BB_AI_Character Validating asset
+[2024.12.18-22.14.20:443][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-22.14.20:455][746]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-22.14.20:455][746]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-22.14.20:457][746]LogWorldPartition: Display: GenerateStreaming for 'Main' took 1.935 ms (total: 82.773 ms)
+[2024.12.18-22.14.20:457][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-22.14.20:457][746]LogPlayLevel: Display: Creating online subsystem for client :Context_53
+[2024.12.18-22.14.20:460][746]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.12.18-22.14.20:495][747]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-22.14.20:507][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011940s)
+[2024.12.18-22.14.20:507][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.011994s)
+[2024.12.18-22.14.20:536][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.12.18-22.14.20:540][747]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-22.14.20:543][747]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-22.14.20:543][747]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-22.14.20:543][747]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-22.14.20:543][747]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-22.14.20:546][747]LogWorldPartition: Display: WorldPartition initialize took 3.616 ms (total: 1.91 sec)
+[2024.12.18-22.14.20:546][747]LogPlayLevel: PIE: World Init took: (0.005505s)
+[2024.12.18-22.14.20:547][747]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.12.18-22.14.20:548][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-22.14.20:548][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-22.14.20:548][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-22.14.20:548][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-22.14.20:548][747]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-22.14.20:548][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-22.14.20:548][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-22.14.20:548][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-22.14.20:548][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-22.14.20:548][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-22.14.20:548][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-22.14.20:550][747]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-22.14.20:586][747]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-22.14.20:587][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-22.14.20:587][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-22.14.20:587][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-22.14.20:588][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.12.18-22.14.20:588][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.12.18-22.14.20:590][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.12.18-22.14.20:590][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.12.18-22.14.20:590][747]LogInit: FAudioDevice initialized with ID 18.
+[2024.12.18-22.14.20:590][747]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main'.
+[2024.12.18-22.14.20:590][747]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.18-22.14.20:593][747]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-22.14.20:600][747]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.19-00.14.20
+[2024.12.18-22.14.20:600][747]LogWorld: Bringing up level for play took: 0.006662
+[2024.12.18-22.14.20:607][747]PIE: Server logged in
+[2024.12.18-22.14.20:608][747]PIE: Play in editor total start time 0.153 seconds.
+[2024.12.18-22.14.30:458][  8]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-22.14.30:458][  8]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-22.14.30:458][  8]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-22.14.31:402][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-22.14.31:402][ 35]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-22.14.31:403][ 35]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.14.31:404][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.14.31:404][ 35]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-22.14.31:411][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-22.14.31:422][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.14.31:456][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-22.14.31:456][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.12.18-22.14.31:456][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.18-22.14.31:459][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.12.18-22.14.31:470][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.12.18-22.14.31:566][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.12.18-22.14.36:622][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.12.18-22.14.38:012][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.14.38:072][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BB_AI_Character] ([2] browsable assets)...
+[2024.12.18-22.14.38:158][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BB_AI_Character.BB_AI_Character]
+[2024.12.18-22.14.38:158][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_AI_Character]
+[2024.12.18-22.14.38:158][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_AI_Character" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset" SILENT=true
+[2024.12.18-22.14.38:164][217]LogSavePackage: Moving output files for package: /Game/AI/BB_AI_Character
+[2024.12.18-22.14.38:164][217]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BB_AI_CharacterE9ABC92E4C960C94363FBC84C445C47A.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset'
+[2024.12.18-22.14.38:173][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.854 ms (total: 14.3 sec)
+[2024.12.18-22.14.38:223][217]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.14.38:223][217]LogContentValidation: Enabled validators:
+[2024.12.18-22.14.38:223][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.14.38:223][217]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.14.38:223][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.14.38:223][217]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.14.38:223][217]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.14.38:223][217]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.14.38:223][217]AssetCheck: /Game/AI/BB_AI_Character Validating asset
+[2024.12.18-22.14.40:200][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-22.14.40:208][284]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-22.14.40:208][284]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-22.14.40:211][284]LogWorldPartition: Display: GenerateStreaming for 'Main' took 2.509 ms (total: 85.282 ms)
+[2024.12.18-22.14.40:211][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-22.14.40:211][284]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2024.12.18-22.14.40:213][284]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.12.18-22.14.40:243][285]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-22.14.40:254][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010722s)
+[2024.12.18-22.14.40:254][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.010768s)
+[2024.12.18-22.14.40:285][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.12.18-22.14.40:288][285]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-22.14.40:290][285]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-22.14.40:290][285]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-22.14.40:290][285]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-22.14.40:290][285]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-22.14.40:294][285]LogWorldPartition: Display: WorldPartition initialize took 3.629 ms (total: 1.91 sec)
+[2024.12.18-22.14.40:294][285]LogPlayLevel: PIE: World Init took: (0.005468s)
+[2024.12.18-22.14.40:295][285]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.12.18-22.14.40:295][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-22.14.40:295][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-22.14.40:295][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-22.14.40:295][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-22.14.40:295][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-22.14.40:295][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-22.14.40:295][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-22.14.40:295][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-22.14.40:295][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-22.14.40:295][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-22.14.40:295][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-22.14.40:297][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-22.14.40:332][285]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-22.14.40:332][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-22.14.40:332][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-22.14.40:332][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-22.14.40:333][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.12.18-22.14.40:333][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.12.18-22.14.40:336][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.12.18-22.14.40:336][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.12.18-22.14.40:336][285]LogInit: FAudioDevice initialized with ID 19.
+[2024.12.18-22.14.40:336][285]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main'.
+[2024.12.18-22.14.40:336][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.18-22.14.40:339][285]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-22.14.40:345][285]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.19-00.14.40
+[2024.12.18-22.14.40:345][285]LogWorld: Bringing up level for play took: 0.006048
+[2024.12.18-22.14.40:352][285]PIE: Server logged in
+[2024.12.18-22.14.40:353][285]PIE: Play in editor total start time 0.145 seconds.
+[2024.12.18-22.14.50:741][575]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-22.14.50:741][575]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-22.14.50:741][575]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-22.14.52:492][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-22.14.52:493][634]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-22.14.52:493][634]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.14.52:494][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.14.52:494][634]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-22.14.52:501][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-22.14.52:508][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.14.52:534][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-22.14.52:534][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.12.18-22.14.52:534][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.18-22.14.52:536][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.12.18-22.14.52:545][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.12.18-22.14.52:635][635]LogPlayLevel: Display: Destroying online subsystem :Context_54
