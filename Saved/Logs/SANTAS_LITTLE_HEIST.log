@@ -5158,3 +5158,78 @@ Sampler Limit: 32
 [2024.12.18-21.56.50:821][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
 [2024.12.18-21.56.50:832][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
 [2024.12.18-21.56.50:984][573]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.12.18-21.57.27:861][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.12.18-21.57.29:960][405]LogSlate: Window 'Save Content' being destroyed
+[2024.12.18-21.57.31:543][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-21.57.32:420][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.18-21.57.32:455][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.18-21.57.32:483][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.18-21.57.33:094][405]SourceControl: Error: Updated 0 paths from the index
+[2024.12.18-21.57.33:638][405]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/Main/2/': No such file or directory
+[2024.12.18-21.57.33:638][405]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/Main/0/MS/JNRX9IMD8612CPX67ECLLT.uasset'
+[2024.12.18-21.57.33:638][405]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/Main/2/8H/2N09W6NB9QFP7XCRQRGXFT.uasset'
+[2024.12.18-21.57.33:638][405]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/Main/3/EM/5JTH0L87O7EHSTF4Q3G81Y.uasset'
+[2024.12.18-21.57.33:638][405]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/Main/3/OT/F5CB7Y3EYNJ6WEMAPLD1CN.uasset'
+[2024.12.18-21.57.33:638][405]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/Main/5/SR/0TYOSH9ACIKGBJ98ND45E6.uasset'
+[2024.12.18-21.57.33:638][405]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/Main/7/XG/HJTPJ7PNGXNFEAILJ2X8IO.uasset'
+[2024.12.18-21.57.33:638][405]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/Main/E/7C/GEPKGT7P3X01EDWC9EYX31.uasset'
+[2024.12.18-21.57.33:649][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/0/41/GEUZ8IL8HUIX28C0S2T6PK
+[2024.12.18-21.57.33:650][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/GEUZ8IL8HUIX28C0S2T6PK3EC8E75347815FF38F4D06BA5BD52006.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/0/41/GEUZ8IL8HUIX28C0S2T6PK.uasset'
+[2024.12.18-21.57.33:660][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/8/QU/IAQLSFSGSD00N4TDTI3YE0
+[2024.12.18-21.57.33:661][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/IAQLSFSGSD00N4TDTI3YE0F76F57AD494481F18F0C38ABD8289603.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/8/QU/IAQLSFSGSD00N4TDTI3YE0.uasset'
+[2024.12.18-21.57.33:672][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/E/XU/7N2CHRG9WV6DKDY07WWQ5D
+[2024.12.18-21.57.33:672][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/7N2CHRG9WV6DKDY07WWQ5D89F453AA4B64E6878C458E819486EF50.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/E/XU/7N2CHRG9WV6DKDY07WWQ5D.uasset'
+[2024.12.18-21.57.33:684][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/C/O1/VHAZJM5BI3F0TEDBLMKNVQ
+[2024.12.18-21.57.33:684][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/VHAZJM5BI3F0TEDBLMKNVQFA5CA85941F20760315F40B1FED6D710.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/C/O1/VHAZJM5BI3F0TEDBLMKNVQ.uasset'
+[2024.12.18-21.57.33:696][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/1/B7/SJCCG6RMOS7OHMNDBQOMHB
+[2024.12.18-21.57.33:697][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/SJCCG6RMOS7OHMNDBQOMHBE95EC8B84A4B32D56911718D7559FE1E.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/1/B7/SJCCG6RMOS7OHMNDBQOMHB.uasset'
+[2024.12.18-21.57.33:709][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/3/LL/WROIB2FCIICB1WZJQBWQ0E
+[2024.12.18-21.57.33:709][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/WROIB2FCIICB1WZJQBWQ0EEA9BD331409C236B0E777EA270676522.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/3/LL/WROIB2FCIICB1WZJQBWQ0E.uasset'
+[2024.12.18-21.57.33:721][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/E/D7/XAOF85J3EI66SJI5E6KFH0
+[2024.12.18-21.57.33:721][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/XAOF85J3EI66SJI5E6KFH094FEBEE84732CFD784FF1DB1DE601176.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/E/D7/XAOF85J3EI66SJI5E6KFH0.uasset'
+[2024.12.18-21.57.33:733][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/B/0T/UWMPRZZAQRUHEQH4RUA3RQ
+[2024.12.18-21.57.33:733][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/UWMPRZZAQRUHEQH4RUA3RQ5578023E46172411C6620CBC3308F474.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/B/0T/UWMPRZZAQRUHEQH4RUA3RQ.uasset'
+[2024.12.18-21.57.33:744][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/7/L7/HA3FOS4IUS1WUGEJTNQE19
+[2024.12.18-21.57.33:744][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/HA3FOS4IUS1WUGEJTNQE19480E24B640CE4AD33AED319208FF8F16.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/7/L7/HA3FOS4IUS1WUGEJTNQE19.uasset'
+[2024.12.18-21.57.33:755][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/5/65/DDZ7CR0AK5XOCFYZ3RRT7K
+[2024.12.18-21.57.33:755][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/DDZ7CR0AK5XOCFYZ3RRT7KF19007B349CCCDE46020BCA805C78DB9.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/5/65/DDZ7CR0AK5XOCFYZ3RRT7K.uasset'
+[2024.12.18-21.57.33:812][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/B/LH/ZH5XTOC5KFCPYI9W5T2JRY
+[2024.12.18-21.57.33:812][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/ZH5XTOC5KFCPYI9W5T2JRYBB88087445483B6AACB47AAB10FE07C2.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/B/LH/ZH5XTOC5KFCPYI9W5T2JRY.uasset'
+[2024.12.18-21.57.33:817][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/E/8U/WRF9XR72HKJB3W7FEPR9AV
+[2024.12.18-21.57.33:817][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/WRF9XR72HKJB3W7FEPR9AV4FB1DCCA471A4320870D37BDD4E0B6D5.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/E/8U/WRF9XR72HKJB3W7FEPR9AV.uasset'
+[2024.12.18-21.57.33:818][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/snow_01_diff_2k] ([1] browsable assets)...
+[2024.12.18-21.57.33:818][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/snow_01_diff_2k]
+[2024.12.18-21.57.33:818][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/snow_01_diff_2k" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/textures/snow_01_diff_2k.uasset" SILENT=true
+[2024.12.18-21.57.33:821][405]LogSavePackage: Moving output files for package: /Game/Assets/textures/snow_01_diff_2k
+[2024.12.18-21.57.33:821][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/snow_01_diff_2kD49EC210432345FEE136E09EB197A690.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/textures/snow_01_diff_2k.uasset'
+[2024.12.18-21.57.33:827][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/snow_01_disp_2k] ([1] browsable assets)...
+[2024.12.18-21.57.33:827][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/snow_01_disp_2k]
+[2024.12.18-21.57.33:827][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/snow_01_disp_2k" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/textures/snow_01_disp_2k.uasset" SILENT=true
+[2024.12.18-21.57.34:007][405]LogSavePackage: Moving output files for package: /Game/Assets/textures/snow_01_disp_2k
+[2024.12.18-21.57.34:007][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/snow_01_disp_2k730ADBA8452494D46B3492836F71E917.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/textures/snow_01_disp_2k.uasset'
+[2024.12.18-21.57.34:009][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/snow_01_rough_2k] ([1] browsable assets)...
+[2024.12.18-21.57.34:009][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/snow_01_rough_2k]
+[2024.12.18-21.57.34:009][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/snow_01_rough_2k" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/textures/snow_01_rough_2k.uasset" SILENT=true
+[2024.12.18-21.57.34:012][405]LogSavePackage: Moving output files for package: /Game/Assets/textures/snow_01_rough_2k
+[2024.12.18-21.57.34:012][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/snow_01_rough_2k59A1CF4F4D6B204A397EAAB581DFF278.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/textures/snow_01_rough_2k.uasset'
+[2024.12.18-21.57.34:013][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/textures/snow_01_translucent_2k] ([1] browsable assets)...
+[2024.12.18-21.57.34:013][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/textures/snow_01_translucent_2k]
+[2024.12.18-21.57.34:013][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/snow_01_translucent_2k" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/textures/snow_01_translucent_2k.uasset" SILENT=true
+[2024.12.18-21.57.34:124][405]LogSavePackage: Moving output files for package: /Game/Assets/textures/snow_01_translucent_2k
+[2024.12.18-21.57.34:124][405]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/snow_01_translucent_2kD60E78B842C4E938A021DFB7E5A00D65.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/textures/snow_01_translucent_2k.uasset'
+[2024.12.18-21.57.36:001][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.45 sec (total: 11.6 sec)
+[2024.12.18-21.57.36:267][405]LogContentValidation: Display: Starting to validate 16 assets
+[2024.12.18-21.57.36:267][405]LogContentValidation: Enabled validators:
+[2024.12.18-21.57.36:267][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-21.57.36:267][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-21.57.36:267][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-21.57.36:267][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-21.57.36:267][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-21.57.36:267][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-21.57.36:268][405]AssetCheck: /Game/ThirdPerson/Maps/Main Validating asset
+[2024.12.18-21.57.36:268][405]AssetCheck: /Game/Assets/textures/snow_01_diff_2k Validating asset
+[2024.12.18-21.57.36:268][405]AssetCheck: /Game/Assets/textures/snow_01_disp_2k Validating asset
+[2024.12.18-21.57.36:268][405]AssetCheck: /Game/Assets/textures/snow_01_rough_2k Validating asset
+[2024.12.18-21.57.36:268][405]AssetCheck: /Game/Assets/textures/snow_01_translucent_2k Validating asset
+[2024.12.18-21.57.36:276][405]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2024.12.18-21.57.37:679][436]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/Main/2/': No such file or directory
