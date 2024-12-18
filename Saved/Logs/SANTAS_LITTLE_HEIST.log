@@ -4871,3 +4871,411 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2024.12.18-09.17.38:466][ 79]LogDerivedDataCache: C:/Users/ivis3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2024.12.18-09.18.10:814][  4]LogSlate: Window 'View Changes' being destroyed
 [2024.12.18-09.18.10:863][  4]LogSlate: Window 'View Changes' being destroyed
+[2024.12.18-09.23.17:404][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4027.612061
+[2024.12.18-09.23.17:809][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-09.23.17:809][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4027.979736, Update Interval: 329.691467
+[2024.12.18-09.29.29:773][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4399.989258
+[2024.12.18-09.29.30:018][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-09.29.30:018][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4400.199707, Update Interval: 324.531372
+[2024.12.18-09.35.42:805][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4773.015625
+[2024.12.18-09.35.43:116][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-09.35.43:116][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4773.291016, Update Interval: 355.151215
+[2024.12.18-09.42.17:928][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5168.106934
+[2024.12.18-09.42.18:206][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-09.42.18:206][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5168.349609, Update Interval: 348.458496
+[2024.12.18-09.48.59:835][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5570.020508
+[2024.12.18-09.49.00:108][442]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-09.49.00:108][442]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5570.259277, Update Interval: 306.538910
+[2024.12.18-09.55.01:652][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5931.843750
+[2024.12.18-09.55.01:958][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-09.55.01:958][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5932.114746, Update Interval: 322.182068
+[2024.12.18-10.01.09:048][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6299.247070
+[2024.12.18-10.01.09:320][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.01.09:320][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6299.483887, Update Interval: 351.564087
+[2024.12.18-10.07.34:380][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6684.572266
+[2024.12.18-10.07.34:752][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.07.34:752][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6684.910645, Update Interval: 325.205231
+[2024.12.18-10.13.58:429][867]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7068.643555
+[2024.12.18-10.13.58:699][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.13.58:699][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7068.880371, Update Interval: 336.971954
+[2024.12.18-10.15.05:611][865]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: d61...3f6
+[2024.12.18-10.15.05:611][865]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.55e+07
+[2024.12.18-10.15.05:946][875]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: d61...3f6 Access[Expires: 2024.12.18-12.15.06 Remaining: 7200.35] Refresh[Expires: 2025-06-15T19:29:04.590Z Remaining: 15498838.59] State: Valid
+[2024.12.18-10.17.38:466][413]LogDerivedDataCache: C:/Users/ivis3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.18-10.20.11:385][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7441.594238
+[2024.12.18-10.20.11:621][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.20.11:621][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7441.796875, Update Interval: 341.450867
+[2024.12.18-10.26.42:748][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7832.975098
+[2024.12.18-10.26.43:120][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.26.43:120][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7833.313477, Update Interval: 308.941315
+[2024.12.18-10.32.46:396][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8196.662109
+[2024.12.18-10.32.46:664][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.32.46:664][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8196.895508, Update Interval: 311.323578
+[2024.12.18-10.38.40:283][912]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8550.632812
+[2024.12.18-10.38.40:555][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.38.40:555][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8550.870117, Update Interval: 306.341125
+[2024.12.18-10.44.31:962][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8902.763672
+[2024.12.18-10.44.32:234][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.44.32:234][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8903.001953, Update Interval: 314.663544
+[2024.12.18-10.50.37:328][977]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9268.587891
+[2024.12.18-10.50.37:601][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.50.37:601][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9268.827148, Update Interval: 305.696594
+[2024.12.18-10.56.39:025][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9630.655273
+[2024.12.18-10.56.39:296][607]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-10.56.39:296][607]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9630.893555, Update Interval: 349.862976
+[2024.12.18-11.03.20:033][104]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10031.711914
+[2024.12.18-11.03.20:313][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-11.03.20:313][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10031.956055, Update Interval: 307.582642
+[2024.12.18-11.04.08:966][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Content: 'D:/Unreal Engine/UE_5.5/Engine/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:966][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:966][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:966][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:967][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Fab/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/ChaosVD/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.08:968][577]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Bridge/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-11.04.09:070][577]EditorErrors: Warning: No assets to check in!
+[2024.12.18-11.05.31:693][ 70]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.12.18-11.05.32:059][ 70]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.12.18-11.05.32:064][ 70]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.12.18-11.05.32:143][ 72]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.12.18-11.05.59:555][777]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2024.12.18-11.06.01:768][777]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.12.18-11.06.15:940][296]LogSlate: Window 'Message Log' being destroyed
+[2024.12.18-11.06.15:989][296]LogSlate: Window 'Message Log' being destroyed
+[2024.12.18-11.06.18:366][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-11.06.18:736][353]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2024.12.18-11.06.19:112][353]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu.MainMenu]
+[2024.12.18-11.06.19:128][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2024.12.18-11.06.19:137][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/UI/MainMenu.uasset" SILENT=true
+[2024.12.18-11.06.20:040][353]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2024.12.18-11.06.20:040][353]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/MainMenu9381317D43F0A2A5DB312DA913CD0FA3.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/UI/MainMenu.uasset'
+[2024.12.18-11.06.20:806][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.31 sec (total: 3.62 sec)
+[2024.12.18-11.06.20:896][353]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-11.06.20:896][353]LogContentValidation: Enabled validators:
+[2024.12.18-11.06.20:904][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-11.06.20:904][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-11.06.20:904][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-11.06.20:904][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-11.06.20:904][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-11.06.20:904][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-11.06.21:027][353]AssetCheck: /Game/UI/MainMenu Validating asset
+[2024.12.18-11.06.35:200][816]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2024.12.18-11.06.35:600][816]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2024.12.18-11.06.36:285][816]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2024.12.18-11.06.36:432][816]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.12.18-11.06.37:837][816]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.18-11.06.39:158][816]LogBlueprintEditor: Perf: 1.4 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2024.12.18-11.06.39:158][816]LogBlueprintEditor: Perf: 0.9 seconds loading: /Engine/EditorBlueprintResources/StandardMacros
+[2024.12.18-11.06.50:393][816]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2024.12.18-11.06.50:395][816]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2024.12.18-11.06.58:368][816]LogSlate: Took 0.022030 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.18-11.06.58:824][816]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.12.18-11.06.58:942][816]LogSlate: Took 0.049507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.12.18-11.07.01:311][846]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.18-11.08.04:118][187]LogEditorTransaction: Undo Edit Right
+[2024.12.18-11.08.04:658][187]LogEditorTransaction: Undo Edit Bottom
+[2024.12.18-11.08.05:293][188]LogEditorTransaction: Undo Edit Right
+[2024.12.18-11.08.05:355][188]LogEditorTransaction: Undo Edit Left
+[2024.12.18-11.08.05:490][192]LogEditorTransaction: Undo Edit Top
+[2024.12.18-11.08.36:326][928]LogSlate: Took 0.108351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.12.18-11.09.12:799][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10384.460938
+[2024.12.18-11.09.13:056][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-11.09.13:056][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10384.696289, Update Interval: 317.613464
+[2024.12.18-11.13.22:710][613]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.18-11.13.22:774][613]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.18-11.13.30:255][  2]LogSlate: Window 'Color Picker' being destroyed
+[2024.12.18-11.13.32:145][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-11.13.32:203][ 85]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2024.12.18-11.13.32:295][ 85]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu.MainMenu]
+[2024.12.18-11.13.32:295][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2024.12.18-11.13.32:295][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/UI/MainMenu.uasset" SILENT=true
+[2024.12.18-11.13.32:329][ 85]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2024.12.18-11.13.32:330][ 85]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/MainMenuC909FC1843B50662095CFE98D21DFC7A.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/UI/MainMenu.uasset'
+[2024.12.18-11.13.32:336][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.874 ms (total: 3.81 sec)
+[2024.12.18-11.13.32:508][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-11.13.32:508][ 85]LogContentValidation: Enabled validators:
+[2024.12.18-11.13.32:508][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-11.13.32:508][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-11.13.32:508][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-11.13.32:508][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-11.13.32:508][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-11.13.32:508][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-11.13.32:510][ 85]AssetCheck: /Game/UI/MainMenu Validating asset
+[2024.12.18-11.13.43:024][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-11.13.43:087][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2024.12.18-11.13.43:087][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2024.12.18-11.13.43:087][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/UI/MainMenu.uasset" SILENT=true
+[2024.12.18-11.13.43:222][569]LogSavePackage: Moving output files for package: /Game/UI/MainMenu
+[2024.12.18-11.13.43:222][569]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/MainMenu0E08E6C542CE1B204AEC8598F68AD5B1.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/UI/MainMenu.uasset'
+[2024.12.18-11.13.43:232][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.167 ms (total: 4.02 sec)
+[2024.12.18-11.13.43:287][569]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-11.13.43:287][569]LogContentValidation: Enabled validators:
+[2024.12.18-11.13.43:287][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-11.13.43:287][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-11.13.43:287][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-11.13.43:287][569]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-11.13.43:287][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-11.13.43:287][569]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-11.13.43:288][569]AssetCheck: /Game/UI/MainMenu Validating asset
+[2024.12.18-11.14.02:593][641]LogSlate: Window 'MainMenu' being destroyed
+[2024.12.18-11.14.02:598][641]LogSlate: Window 'MainMenu' being destroyed
+[2024.12.18-11.14.03:465][641]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-11.14.03:720][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-11.14.04:287][641]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-11.14.04:287][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-11.14.07:963][641]LogUObjectHash: Compacting FUObjectHashTables data took  50.81ms
+[2024.12.18-11.14.15:379][132]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.18-11.14.19:427][132]LogSlate: Window 'New Level' being destroyed
+[2024.12.18-11.14.20:328][132]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-11.14.20:406][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-11.14.20:416][132]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.12.18-11.14.21:076][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-11.14.21:773][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.12.18-11.14.21:823][132]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2024.12.18-11.14.22:177][132]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.12.18-11.15.09:542][777]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10741.083984
+[2024.12.18-11.15.09:787][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-11.15.09:787][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10741.318359, Update Interval: 338.017517
+[2024.12.18-11.15.23:307][ 86]Cmd: SELECT NONE
+[2024.12.18-11.15.54:535][780]LogSlate: Window 'Save Level As' being destroyed
+[2024.12.18-11.15.54:886][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_Level" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Main_Menu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.18-11.15.55:157][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.12.18-11.15.55:253][780]LogSavePackage: Moving output files for package: /Game/Main_Menu_Level
+[2024.12.18-11.15.55:253][780]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Main_Menu_LevelD1D5CD524985FF0266B3E0BD7718D292.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Main_Menu_Level.umap'
+[2024.12.18-11.15.55:771][780]LogFileHelpers: Saving map 'Main_Menu_Level' took 1.227
+[2024.12.18-11.15.55:794][780]Cmd: MAP LOAD FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.18-11.15.55:840][780]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-11.15.55:941][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-11.15.55:971][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-11.15.55:974][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.12.18-11.15.55:982][780]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.18-11.15.55:998][780]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2024.12.18-11.15.56:017][780]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu_Level
+[2024.12.18-11.15.56:090][780]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.18-11.15.56:168][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2024.12.18-11.15.56:191][780]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.18-11.15.56:277][780]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.818ms to complete.
+[2024.12.18-11.15.56:406][780]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-11.15.56:406][780]LogContentValidation: Enabled validators:
+[2024.12.18-11.15.56:406][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-11.15.56:407][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-11.15.56:407][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-11.15.56:407][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-11.15.56:407][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-11.15.56:407][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-11.15.56:407][780]AssetCheck: /Game/Main_Menu_Level Validating asset
+[2024.12.18-11.16.25:635][918]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.12.18-11.16.25:643][918]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.12.18-11.16.25:647][918]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.12.18-11.16.25:788][919]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.12.18-11.16.40:648][327]LogContentBrowser: Attempting asset rename: NewBlueprint -> Main_Menu_Gamemode
+[2024.12.18-11.16.41:075][327]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.12.18-11.16.50:113][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-11.16.50:368][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_Level" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Main_Menu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.18-11.16.50:429][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.12.18-11.16.50:435][ 82]LogSavePackage: Moving output files for package: /Game/Main_Menu_Level
+[2024.12.18-11.16.50:436][ 82]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Main_Menu_Level830EBBE34E21F315DBF0CAB9BF24F125.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Main_Menu_Level.umap'
+[2024.12.18-11.16.50:452][ 82]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.083
+[2024.12.18-11.16.50:458][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 345.603 ms (total: 4.37 sec)
+[2024.12.18-11.16.50:506][ 82]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-11.16.50:506][ 82]LogContentValidation: Enabled validators:
+[2024.12.18-11.16.50:506][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-11.16.50:506][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-11.16.50:506][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-11.16.50:506][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-11.16.50:506][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-11.16.50:506][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-11.16.50:506][ 82]AssetCheck: /Game/Main_Menu_Level Validating asset
+[2024.12.18-11.17.09:595][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-11.17.09:658][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_Level" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Main_Menu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.18-11.17.09:735][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.12.18-11.17.09:738][730]LogSavePackage: Moving output files for package: /Game/Main_Menu_Level
+[2024.12.18-11.17.09:739][730]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Main_Menu_Level512D60F049E2A91C12625B95B703BCAA.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Main_Menu_Level.umap'
+[2024.12.18-11.17.09:754][730]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.096
+[2024.12.18-11.17.09:762][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.614 ms (total: 4.53 sec)
+[2024.12.18-11.17.09:824][730]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-11.17.09:824][730]LogContentValidation: Enabled validators:
+[2024.12.18-11.17.09:824][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-11.17.09:824][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-11.17.09:824][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-11.17.09:824][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-11.17.09:824][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-11.17.09:824][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-11.17.09:825][730]AssetCheck: /Game/Main_Menu_Level Validating asset
+[2024.12.18-11.17.16:061][274]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Main_Menu_Gamemode.Main_Menu_Gamemode
+[2024.12.18-11.17.16:423][274]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2024.12.18-11.17.17:198][274]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.18-11.17.18:795][274]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/PhAT_FloorBox) ...
+[2024.12.18-11.17.38:467][136]LogDerivedDataCache: C:/Users/ivis3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.18-11.21.25:285][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11116.704102
+[2024.12.18-11.21.25:558][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-11.21.25:558][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11116.967773, Update Interval: 329.810486
+[2024.12.18-11.27.09:760][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.12.18-11.27.09:761][843]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_Menu_Level' took 0.050
+[2024.12.18-11.27.09:762][843]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Main_Menu_Gamemode] ([2] browsable assets)...
+[2024.12.18-11.27.09:762][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu_Gamemode]
+[2024.12.18-11.27.09:762][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_Gamemode" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Autosaves/Game/UI/Main_Menu_Gamemode_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.12.18-11.27.09:995][843]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Main_Menu_Gamemode_Auto1
+[2024.12.18-11.27.09:995][843]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Main_Menu_Gamemode_Auto1AD55D2024CFEEA9811262B9D497EB319.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Autosaves/Game/UI/Main_Menu_Gamemode_Auto1.uasset'
+[2024.12.18-11.27.10:021][843]LogFileHelpers: Auto-saving content packages took 0.260
+[2024.12.18-11.27.53:589][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11504.758789
+[2024.12.18-11.27.53:879][488]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-11.27.53:879][488]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11505.034180, Update Interval: 303.422333
+[2024.12.18-11.33.37:085][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11847.994141
+[2024.12.18-11.33.37:331][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-11.33.37:331][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11848.230469, Update Interval: 319.151581
+[2024.12.18-11.39.06:190][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.12.18-11.39.07:570][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-11.39.07:633][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Main_Menu_Gamemode] ([2] browsable assets)...
+[2024.12.18-11.39.07:633][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu_Gamemode]
+[2024.12.18-11.39.07:633][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_Gamemode" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/UI/Main_Menu_Gamemode.uasset" SILENT=true
+[2024.12.18-11.39.07:741][226]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Gamemode
+[2024.12.18-11.39.07:741][226]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Main_Menu_GamemodeD933DED54C8DE7515B9184BB42E5E687.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/UI/Main_Menu_Gamemode.uasset'
+[2024.12.18-11.39.08:083][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 512.809 ms (total: 5.05 sec)
+[2024.12.18-11.39.08:266][226]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-11.39.08:266][226]LogContentValidation: Enabled validators:
+[2024.12.18-11.39.08:266][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-11.39.08:266][226]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-11.39.08:266][226]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-11.39.08:266][226]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-11.39.08:266][226]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-11.39.08:266][226]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-11.39.08:266][226]AssetCheck: /Game/UI/Main_Menu_Gamemode Validating asset
+[2024.12.18-11.39.13:636][569]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-11.39.14:083][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-11.39.14:572][569]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.12.18-11.39.14:587][569]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.12.18-11.39.14:750][569]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main_Menu_Level
+[2024.12.18-11.39.14:909][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158514s)
+[2024.12.18-11.39.14:909][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Menu_Level.Main_Menu_Level to /Game/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.158644s)
+[2024.12.18-11.39.14:964][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.12.18-11.39.15:156][569]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu_Level
+[2024.12.18-11.39.15:261][569]LogPlayLevel: PIE: World Init took: (0.103626s)
+[2024.12.18-11.39.15:270][569]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.18-11.39.15:489][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-11.39.15:489][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-11.39.15:489][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-11.39.15:489][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-11.39.15:489][569]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-11.39.15:489][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-11.39.15:489][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-11.39.15:503][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-11.39.15:535][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-11.39.15:535][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-11.39.15:535][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-11.39.15:538][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-11.39.15:598][569]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-11.39.15:633][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-11.39.15:633][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-11.39.15:635][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-11.39.15:650][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.18-11.39.15:651][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.18-11.39.15:682][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.18-11.39.15:682][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.18-11.39.15:708][569]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.18-11.39.15:713][569]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2024.12.18-11.39.15:823][569]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main_Menu_Level'.
+[2024.12.18-11.39.15:835][569]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.18-11.39.16:323][569]LogLoad: Game class is 'Main_Menu_Gamemode_C'
+[2024.12.18-11.39.16:340][569]LogWorld: Bringing World /Game/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2024.12.18-13.39.16
+[2024.12.18-11.39.16:361][569]LogWorld: Bringing up level for play took: 0.028627
+[2024.12.18-11.39.16:364][569]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.12.18-11.39.17:419][569]PIE: Server logged in
+[2024.12.18-11.39.17:421][569]PIE: Play in editor total start time 3.576 seconds.
+[2024.12.18-11.39.23:260][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-11.39.23:260][934]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main_Menu_Level
+[2024.12.18-11.39.23:263][934]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-11.39.23:263][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-11.39.23:525][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-11.39.23:540][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-11.39.23:585][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-11.39.23:586][934]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.18-11.39.23:636][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.18-11.39.23:673][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.18-11.39.23:962][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-11.39.24:004][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.12.18-11.39.24:052][935]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.12.18-11.39.37:855][789]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2024.12.18-11.39.37:855][789]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.12.18-11.39.37:865][789]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.12.18-11.39.43:612][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12214.585938
+[2024.12.18-11.39.43:847][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-11.39.43:847][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12214.804688, Update Interval: 332.265991
+[2024.12.18-11.40.41:503][706]LogContentBrowser: Attempting asset rename: ThirdPersonMap -> Main
+[2024.12.18-11.40.41:605][706]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.18-11.40.41:896][706]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.18-11.40.41:940][706]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.18-11.40.41:940][706]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-11.40.41:941][706]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-11.40.42:271][706]LogWorldPartition: Display: WorldPartition initialize took 330.261 ms (total: 386.038 ms)
+[2024.12.18-11.40.52:367][706]LogSlate: Window 'Message' being destroyed
+[2024.12.18-11.40.52:373][706]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+ThirdPersonMap
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.12.18-11.40.55:690][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.12.18-11.40.55:732][922]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_Menu_Level' took 0.216
+[2024.12.18-11.40.55:733][922]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu] ([2] browsable assets)...
+[2024.12.18-11.40.55:737][922]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu.MainMenu]
+[2024.12.18-11.40.55:737][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2024.12.18-11.40.55:737][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.12.18-11.40.55:744][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_Auto2
+[2024.12.18-11.40.55:744][922]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/MainMenu_Auto200019ED549919FA1E389668294B956E0.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Autosaves/Game/UI/MainMenu_Auto2.uasset'
+[2024.12.18-11.40.55:746][922]LogFileHelpers: Auto-saving content packages took 0.012
