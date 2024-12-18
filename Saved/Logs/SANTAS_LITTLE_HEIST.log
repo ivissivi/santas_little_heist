@@ -2162,3 +2162,21 @@ Script Stack (0 frames) :
 [2024.12.18-20.07.52:541][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4746.641602
 [2024.12.18-20.07.52:769][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.18-20.07.52:769][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4746.852051, Update Interval: 302.900482
+[2024.12.18-20.09.08:535][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.12.18-20.09.10:440][931]LogSlate: Window 'Save Content' being destroyed
+[2024.12.18-20.09.10:904][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-20.09.10:975][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/ChristmasTreeSketchfab] ([1] browsable assets)...
+[2024.12.18-20.09.10:975][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/ChristmasTreeSketchfab]
+[2024.12.18-20.09.10:975][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/ChristmasTreeSketchfab" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/ChristmasTreeSketchfab.uasset" SILENT=true
+[2024.12.18-20.09.10:983][931]LogSavePackage: Moving output files for package: /Game/Assets/ChristmasTreeSketchfab
+[2024.12.18-20.09.10:983][931]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/ChristmasTreeSketchfab7D2FA3EC4AFCD78DC0309680655A65D4.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Assets/ChristmasTreeSketchfab.uasset'
+[2024.12.18-20.09.11:352][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 448.210 ms (total: 2.29 sec)
+[2024.12.18-20.09.11:408][931]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-20.09.11:408][931]LogContentValidation: Enabled validators:
+[2024.12.18-20.09.11:408][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-20.09.11:408][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-20.09.11:408][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-20.09.11:408][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-20.09.11:408][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-20.09.11:408][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-20.09.11:408][931]AssetCheck: /Game/Assets/ChristmasTreeSketchfab Validating asset
