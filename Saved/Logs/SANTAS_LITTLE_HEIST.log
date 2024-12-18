@@ -11959,3 +11959,866 @@ Sampler Limit: 32
 [2024.12.18-15.25.32:095][206]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/Main/C/WP/QEBIT2NAJYTKI7U6BTU6YI.uasset
 [2024.12.18-15.25.32:095][206]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/Main/D/EU/GVAL54OWQLFNBXHBW76BX9.uasset
 [2024.12.18-15.25.32:129][206]SourceControl: Commited [master c7caa37] Add item pick up physics.
+[2024.12.18-15.28.29:313][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25934.916016
+[2024.12.18-15.28.29:625][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-15.28.29:625][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25935.197266, Update Interval: 352.878815
+[2024.12.18-15.34.57:138][142]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26321.761719
+[2024.12.18-15.34.57:420][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-15.34.57:420][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26322.011719, Update Interval: 313.526428
+[2024.12.18-15.40.59:676][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26682.898438
+[2024.12.18-15.40.59:955][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-15.40.59:955][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26683.148438, Update Interval: 315.276947
+[2024.12.18-15.47.03:934][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27046.431641
+[2024.12.18-15.47.04:207][190]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-15.47.04:207][190]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27046.679688, Update Interval: 309.490662
+[2024.12.18-15.52.46:866][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27389.201172
+[2024.12.18-15.52.47:122][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-15.52.47:122][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27389.435547, Update Interval: 320.636627
+[2024.12.18-15.58.42:187][419]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27743.537109
+[2024.12.18-15.58.42:455][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-15.58.42:455][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27743.785156, Update Interval: 303.960693
+[2024.12.18-16.04.44:598][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28107.832031
+[2024.12.18-16.04.44:876][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.04.44:876][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28108.095703, Update Interval: 306.831879
+[2024.12.18-16.10.08:036][877]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: d61...3f6
+[2024.12.18-16.10.08:036][877]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.548e+07
+[2024.12.18-16.10.10:829][914]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: d61...3f6 Access[Expires: 2024.12.18-18.10.10 Remaining: 7200.60] Refresh[Expires: 2025-06-15T19:29:04.590Z Remaining: 15477534.59] State: Valid
+[2024.12.18-16.10.23:528][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28448.980469
+[2024.12.18-16.10.23:800][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.10.23:800][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28449.234375, Update Interval: 345.446350
+[2024.12.18-16.16.50:219][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28838.011719
+[2024.12.18-16.16.50:495][ 35]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.16.50:495][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28838.273438, Update Interval: 334.836884
+[2024.12.18-16.17.38:479][822]LogDerivedDataCache: C:/Users/ivis3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.18-16.23.23:332][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29233.966797
+[2024.12.18-16.23.23:623][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.23.23:624][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29234.244141, Update Interval: 300.254517
+[2024.12.18-16.29.21:982][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29595.294922
+[2024.12.18-16.29.22:241][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.29.22:242][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29595.542969, Update Interval: 346.955170
+[2024.12.18-16.36.02:896][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29999.107422
+[2024.12.18-16.36.03:171][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.36.03:171][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29999.369141, Update Interval: 358.005920
+[2024.12.18-16.42.40:768][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30399.101562
+[2024.12.18-16.42.41:009][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.42.41:009][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30399.322266, Update Interval: 337.962585
+[2024.12.18-16.48.58:693][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30778.820312
+[2024.12.18-16.48.58:970][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.48.58:970][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30779.082031, Update Interval: 315.115814
+[2024.12.18-16.54.51:439][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31134.146484
+[2024.12.18-16.54.51:768][551]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-16.54.51:768][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31134.458984, Update Interval: 324.690704
+[2024.12.18-17.01.11:338][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31516.296875
+[2024.12.18-17.01.11:562][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-17.01.11:562][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31516.507812, Update Interval: 344.415405
+[2024.12.18-17.06.56:723][673]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.18-17.06.58:836][673]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2024.12.18-17.07.53:089][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31919.857422
+[2024.12.18-17.07.53:444][ 56]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-17.07.53:445][ 56]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31920.191406, Update Interval: 315.046234
+[2024.12.18-17.08.19:336][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.08.19:393][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.08.19:475][ 26]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.08.19:475][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.08.19:500][ 26]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.18-17.08.19:501][ 26]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacter0D218BDA48C5C95CC485498FE1C5C200.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.18-17.08.19:511][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.675 ms (total: 1:00 min)
+[2024.12.18-17.08.19:576][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.08.19:576][ 26]LogContentValidation: Enabled validators:
+[2024.12.18-17.08.19:576][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.08.19:576][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.08.19:576][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.08.19:576][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.08.19:576][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.08.19:576][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.08.19:576][ 26]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.18-17.08.28:670][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.08.28:712][382]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.08.28:800][382]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.08.28:800][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.08.28:825][382]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.18-17.08.28:825][382]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacter82505F02402D5BB86FD3DD96248CB3AD.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.18-17.08.28:839][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.799 ms (total: 1:00 min)
+[2024.12.18-17.08.28:894][382]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.08.28:894][382]LogContentValidation: Enabled validators:
+[2024.12.18-17.08.28:894][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.08.28:894][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.08.28:894][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.08.28:894][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.08.28:894][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.08.28:894][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.08.28:894][382]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.18-17.08.31:504][480]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-17.08.31:510][480]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-17.08.31:510][480]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-17.08.31:512][480]LogWorldPartition: Display: GenerateStreaming for 'Main' took 2.371 ms (total: 209.117 ms)
+[2024.12.18-17.08.31:515][480]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.12.18-17.08.31:727][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.12.18-17.08.31:732][480]LogPlayLevel: PlayLevel: Blueprint regeneration took 218 ms (1 blueprints)
+[2024.12.18-17.08.31:732][480]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.08.31:736][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004600s)
+[2024.12.18-17.08.31:736][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.004641s)
+[2024.12.18-17.08.31:768][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.12.18-17.08.31:770][480]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-17.08.31:772][480]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-17.08.31:772][480]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-17.08.31:772][480]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-17.08.31:772][480]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-17.08.31:774][480]LogWorldPartition: Display: WorldPartition initialize took 1.522 ms (total: 1.29 sec)
+[2024.12.18-17.08.31:774][480]LogPlayLevel: PIE: World Init took: (0.003627s)
+[2024.12.18-17.08.31:775][480]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.12.18-17.08.31:775][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-17.08.31:775][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-17.08.31:775][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-17.08.31:775][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-17.08.31:775][480]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-17.08.31:775][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-17.08.31:775][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-17.08.31:775][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-17.08.31:775][480]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-17.08.31:775][480]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-17.08.31:775][480]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-17.08.31:779][480]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-17.08.31:815][480]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-17.08.31:815][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-17.08.31:815][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-17.08.31:815][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-17.08.31:817][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.12.18-17.08.31:817][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.12.18-17.08.31:820][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.12.18-17.08.31:820][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.12.18-17.08.31:820][480]LogInit: FAudioDevice initialized with ID 39.
+[2024.12.18-17.08.31:820][480]LogAudio: Display: Audio Device (ID: 39) registered with world 'Main'.
+[2024.12.18-17.08.31:820][480]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.12.18-17.08.31:829][480]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-17.08.31:935][480]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.18-19.08.31
+[2024.12.18-17.08.31:936][480]LogWorld: Bringing up level for play took: 0.105663
+[2024.12.18-17.08.31:939][480]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2024.12.18-17.08.31:944][480]PIE: Server logged in
+[2024.12.18-17.08.31:946][480]PIE: Play in editor total start time 0.436 seconds.
+[2024.12.18-17.09.04:878][358]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.09.04:878][358]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-17.09.04:878][358]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-17.09.07:065][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.09.07:065][455]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.09.07:066][455]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.09.07:066][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.09.07:066][455]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-17.09.07:070][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-17.09.07:077][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.09.07:107][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.09.07:108][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.12.18-17.09.07:108][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.12.18-17.09.07:110][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.12.18-17.09.07:133][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.12.18-17.09.07:211][456]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2024.12.18-17.09.11:304][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.09.11:343][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.09.11:418][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.09.11:418][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.09.11:441][637]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.18-17.09.11:442][637]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacter892F04784A7BCA59539E3681227110D9.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.18-17.09.11:451][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.061 ms (total: 1:00 min)
+[2024.12.18-17.09.11:508][637]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.09.11:508][637]LogContentValidation: Enabled validators:
+[2024.12.18-17.09.11:508][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.09.11:508][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.09.11:508][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.09.11:508][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.09.11:508][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.09.11:508][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.09.11:508][637]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.18-17.09.12:998][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.12.18-17.09.14:948][786]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-17.09.14:954][786]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-17.09.14:954][786]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-17.09.14:956][786]LogWorldPartition: Display: GenerateStreaming for 'Main' took 1.944 ms (total: 211.062 ms)
+[2024.12.18-17.09.14:956][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-17.09.14:957][786]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.09.14:961][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004018s)
+[2024.12.18-17.09.14:961][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.004056s)
+[2024.12.18-17.09.14:987][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.18-17.09.14:990][786]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-17.09.14:992][786]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-17.09.14:992][786]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-17.09.14:992][786]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-17.09.14:992][786]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-17.09.14:993][786]LogWorldPartition: Display: WorldPartition initialize took 1.478 ms (total: 1.29 sec)
+[2024.12.18-17.09.14:993][786]LogPlayLevel: PIE: World Init took: (0.003308s)
+[2024.12.18-17.09.14:994][786]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.12.18-17.09.14:994][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-17.09.14:995][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-17.09.14:995][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-17.09.14:995][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-17.09.14:995][786]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-17.09.14:995][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-17.09.14:995][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-17.09.14:995][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-17.09.14:995][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-17.09.14:995][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-17.09.14:995][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-17.09.14:998][786]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-17.09.15:034][786]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-17.09.15:034][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-17.09.15:034][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-17.09.15:034][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-17.09.15:035][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.12.18-17.09.15:035][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.12.18-17.09.15:038][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.12.18-17.09.15:038][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.12.18-17.09.15:038][786]LogInit: FAudioDevice initialized with ID 40.
+[2024.12.18-17.09.15:038][786]LogAudio: Display: Audio Device (ID: 40) registered with world 'Main'.
+[2024.12.18-17.09.15:038][786]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.12.18-17.09.15:045][786]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-17.09.15:048][786]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.18-19.09.15
+[2024.12.18-17.09.15:049][786]LogWorld: Bringing up level for play took: 0.003318
+[2024.12.18-17.09.15:051][786]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2024.12.18-17.09.15:058][786]PIE: Server logged in
+[2024.12.18-17.09.15:059][786]PIE: Play in editor total start time 0.104 seconds.
+[2024.12.18-17.09.33:238][564]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.09.33:238][564]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-17.09.33:238][564]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-17.09.35:156][648]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.18-17.09.35:156][648]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.18-17.09.37:501][752]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.09.37:501][752]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.18-17.09.45:314][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.09.45:315][ 37]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.09.45:315][ 37]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.09.45:315][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.09.45:315][ 37]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-17.09.45:320][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-17.09.45:327][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.09.45:356][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.09.45:356][ 37]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.12.18-17.09.45:356][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.12.18-17.09.45:358][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.12.18-17.09.45:367][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.12.18-17.09.45:685][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2024.12.18-17.10.11:268][164]LogStreaming: Display: FlushAsyncLoading(734): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.18-17.10.12:399][165]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2024.12.18-17.10.12:399][165]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2024.12.18-17.10.12:399][165]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2024.12.18-17.10.12:399][165]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2024.12.18-17.10.12:412][165]LogChaosDD: Creating Chaos Debug Draw Scene for world World_72
+[2024.12.18-17.10.12:428][165]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2024.12.18-17.10.12:428][165]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2024.12.18-17.10.12:429][165]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2024.12.18-17.10.13:202][172]LogChaosDD: Creating Chaos Debug Draw Scene for world World_73
+[2024.12.18-17.10.23:761][539]LogContentBrowser: Deferred new asset file creation: MM_Idle1
+[2024.12.18-17.10.23:781][539]LogContentBrowser: Creating deferred item: MM_Idle1
+[2024.12.18-17.10.23:810][540]LogContentBrowser: Renaming the item being created (Deferred Item: MM_Idle1).
+[2024.12.18-17.10.28:918][784]LogContentBrowser: Attempting asset rename: MM_Idle1 -> MM_Hold
+[2024.12.18-17.10.30:571][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.10.30:611][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Hold] ([1] browsable assets)...
+[2024.12.18-17.10.30:691][784]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Hold.MM_Hold]
+[2024.12.18-17.10.30:691][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Hold]
+[2024.12.18-17.10.30:779][784]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Hold
+[2024.12.18-17.10.30:779][784]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/MM_Hold415D603C4EE65279F3D5388664FE1572.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/Manny/MM_Hold.uasset'
+[2024.12.18-17.10.31:134][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 562.755 ms (total: 1:01 min)
+[2024.12.18-17.10.31:466][784]LogContentBrowser: End creating deferred item MM_Idle1
+[2024.12.18-17.10.31:526][784]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.10.31:526][784]LogContentValidation: Enabled validators:
+[2024.12.18-17.10.31:526][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.10.31:526][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.10.31:526][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.10.31:526][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.10.31:526][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.10.31:526][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.10.31:526][784]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Hold Validating asset
+[2024.12.18-17.10.45:442][326]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Hold.MM_Hold
+[2024.12.18-17.10.45:934][326]LogChaosDD: Creating Chaos Debug Draw Scene for world World_74
+[2024.12.18-17.10.45:946][326]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_74:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.18-17.10.46:626][326]LogChaosDD: Creating Chaos Debug Draw Scene for world World_75
+[2024.12.18-17.10.48:014][326]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.12.18-17.10.48:073][326]LogChaosDD: Creating Chaos Debug Draw Scene for world World_76
+[2024.12.18-17.10.48:892][327]LogChaosDD: Creating Chaos Debug Draw Scene for world World_77
+[2024.12.18-17.13.18:308][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.13.18:363][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Hold] ([1] browsable assets)...
+[2024.12.18-17.13.18:363][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Hold]
+[2024.12.18-17.13.18:375][931]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Hold
+[2024.12.18-17.13.18:376][931]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/MM_Hold0EE9DA684B05127EC953F79B9A9F8D68.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/Manny/MM_Hold.uasset'
+[2024.12.18-17.13.18:385][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.371 ms (total: 1:01 min)
+[2024.12.18-17.13.18:446][931]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.13.18:446][931]LogContentValidation: Enabled validators:
+[2024.12.18-17.13.18:446][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.13.18:446][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.13.18:446][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.13.18:446][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.13.18:446][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.13.18:447][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.13.18:447][931]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Hold Validating asset
+[2024.12.18-17.14.04:868][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32291.468750
+[2024.12.18-17.14.05:143][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-17.14.05:143][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32291.712891, Update Interval: 331.403534
+[2024.12.18-17.15.23:374][211]LogChaosDD: Creating Chaos Debug Draw Scene for world World_78
+[2024.12.18-17.15.24:291][238]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.12.18-17.15.24:362][238]LogChaosDD: Creating Chaos Debug Draw Scene for world World_79
+[2024.12.18-17.15.24:550][238]LogChaosDD: Creating Chaos Debug Draw Scene for world World_80
+[2024.12.18-17.15.24:635][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.12.18-17.15.25:582][238]LogChaosDD: Creating Chaos Debug Draw Scene for world World_81
+[2024.12.18-17.15.26:430][238]LogChaosDD: Creating Chaos Debug Draw Scene for world World_82
+[2024.12.18-17.15.49:078][879]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.12.18-17.17.38:479][759]LogDerivedDataCache: C:/Users/ivis3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.18-17.17.56:728][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.17.57:044][568]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2024.12.18-17.17.57:060][568]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2024.12.18-17.17.57:060][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2024.12.18-17.17.57:187][568]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.12.18-17.17.57:187][568]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/ABP_Manny4CC320484024AD6AF31A548A9C746C46.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.12.18-17.17.57:207][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 479.126 ms (total: 1:01 min)
+[2024.12.18-17.17.57:288][568]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.17.57:288][568]LogContentValidation: Enabled validators:
+[2024.12.18-17.17.57:288][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.17.57:288][568]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.17.57:288][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.17.57:288][568]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.17.57:288][568]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.17.57:288][568]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.17.57:288][568]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Manny Validating asset
+[2024.12.18-17.18.26:563][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.18.26:621][546]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2024.12.18-17.18.26:630][546]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2024.12.18-17.18.26:630][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2024.12.18-17.18.26:680][546]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.12.18-17.18.26:681][546]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/ABP_Manny41F34B4840829443A24DDEAEA94222E0.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.12.18-17.18.26:690][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.187 ms (total: 1:01 min)
+[2024.12.18-17.18.26:753][546]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.18.26:753][546]LogContentValidation: Enabled validators:
+[2024.12.18-17.18.26:753][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.18.26:753][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.18.26:753][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.18.26:753][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.18.26:753][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.18.26:753][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.18.26:753][546]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Manny Validating asset
+[2024.12.18-17.18.30:198][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.12.18-17.20.28:773][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32675.337891
+[2024.12.18-17.20.29:056][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-17.20.29:056][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32675.589844, Update Interval: 329.696960
+[2024.12.18-17.21.50:253][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.21.50:291][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2024.12.18-17.21.50:303][139]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2024.12.18-17.21.50:303][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2024.12.18-17.21.50:362][139]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.12.18-17.21.50:362][139]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/ABP_MannyA6EE9CB3444D6246CE5218B5A69AB3F8.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.12.18-17.21.50:374][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.324 ms (total: 1:01 min)
+[2024.12.18-17.21.50:442][139]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.21.50:443][139]LogContentValidation: Enabled validators:
+[2024.12.18-17.21.50:443][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.21.50:443][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.21.50:443][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.21.50:443][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.21.50:443][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.21.50:443][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.21.50:443][139]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Manny Validating asset
+[2024.12.18-17.21.52:463][194]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_23:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:038D
+[2024.12.18-17.21.52:464][194]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_71:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:038D
+[2024.12.18-17.21.52:520][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.12.18-17.21.53:999][230]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-17.21.54:009][230]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-17.21.54:009][230]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-17.21.54:013][230]LogWorldPartition: Display: GenerateStreaming for 'Main' took 4.230 ms (total: 215.292 ms)
+[2024.12.18-17.21.54:014][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-17.21.54:015][230]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.21.54:130][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115449s)
+[2024.12.18-17.21.54:130][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.115506s)
+[2024.12.18-17.21.54:165][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.12.18-17.21.54:170][230]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-17.21.54:172][230]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-17.21.54:172][230]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-17.21.54:172][230]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-17.21.54:172][230]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-17.21.54:174][230]LogWorldPartition: Display: WorldPartition initialize took 1.525 ms (total: 1.30 sec)
+[2024.12.18-17.21.54:174][230]LogPlayLevel: PIE: World Init took: (0.003546s)
+[2024.12.18-17.21.54:175][230]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.12.18-17.21.54:175][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-17.21.54:175][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-17.21.54:175][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-17.21.54:175][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-17.21.54:175][230]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-17.21.54:175][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-17.21.54:175][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-17.21.54:175][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-17.21.54:175][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-17.21.54:175][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-17.21.54:175][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-17.21.54:178][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-17.21.54:216][230]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-17.21.54:216][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-17.21.54:216][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-17.21.54:216][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-17.21.54:217][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.12.18-17.21.54:217][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.12.18-17.21.54:221][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.12.18-17.21.54:221][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.12.18-17.21.54:221][230]LogInit: FAudioDevice initialized with ID 41.
+[2024.12.18-17.21.54:221][230]LogAudio: Display: Audio Device (ID: 41) registered with world 'Main'.
+[2024.12.18-17.21.54:221][230]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.12.18-17.21.54:230][230]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-17.21.54:233][230]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.18-19.21.54
+[2024.12.18-17.21.54:233][230]LogWorld: Bringing up level for play took: 0.003030
+[2024.12.18-17.21.54:238][230]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2024.12.18-17.21.54:244][230]PIE: Server logged in
+[2024.12.18-17.21.54:245][230]PIE: Play in editor total start time 0.236 seconds.
+[2024.12.18-17.22.08:696][633]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.22.08:696][633]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-17.22.08:696][633]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-17.22.38:267][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.22.38:268][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Hold] ([1] browsable assets)...
+[2024.12.18-17.22.38:268][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Hold]
+[2024.12.18-17.22.38:280][750]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Hold
+[2024.12.18-17.22.38:280][750]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/MM_Hold01AFE339494D7D3C1F3E8F9B4CDE8DF3.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/Manny/MM_Hold.uasset'
+[2024.12.18-17.22.38:281][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.445 ms (total: 1:01 min)
+[2024.12.18-17.22.38:288][750]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.22.38:288][750]LogContentValidation: Enabled validators:
+[2024.12.18-17.22.38:288][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.22.38:288][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.22.38:288][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.22.38:288][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.22.38:288][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.22.38:288][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.22.38:289][750]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Hold Validating asset
+[2024.12.18-17.22.43:398][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.12.18-17.22.45:385][901]LogSlate: Window 'Save Content' being destroyed
+[2024.12.18-17.22.45:534][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.22.45:534][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.22.45:545][901]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.22.45:545][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.22.45:577][901]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.18-17.22.45:578][901]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacter8A887A5F4F6AE6C0D918179DAE4598B3.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.18-17.22.45:578][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.019 ms (total: 1:01 min)
+[2024.12.18-17.22.45:586][901]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.22.45:586][901]LogContentValidation: Enabled validators:
+[2024.12.18-17.22.45:586][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.22.45:586][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.22.45:586][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.22.45:586][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.22.45:586][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.22.45:586][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.22.45:587][901]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.18-17.23.13:206][811]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.12.18-17.23.14:814][864]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Hold.MM_Hold
+[2024.12.18-17.24.04:321][398]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Hold.MM_Hold (Required Memory Estimate: 61.05 MB)
+[2024.12.18-17.24.05:494][415]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/MM_Hold.MM_Hold, at AnimationSequence/95a0edf82c4fd9e847e7ed45ae80de6dd542779c
+[2024.12.18-17.24.05:496][415]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2024.12.18-17.24.08:973][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.24.08:974][506]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Hold] ([1] browsable assets)...
+[2024.12.18-17.24.08:974][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Hold]
+[2024.12.18-17.24.08:997][506]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Hold
+[2024.12.18-17.24.08:998][506]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/MM_HoldF3649D13481709E008FF008862E7D32F.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/Manny/MM_Hold.uasset'
+[2024.12.18-17.24.08:999][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 25.451 ms (total: 1:01 min)
+[2024.12.18-17.24.09:008][506]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.24.09:008][506]LogContentValidation: Enabled validators:
+[2024.12.18-17.24.09:008][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.24.09:008][506]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.24.09:008][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.24.09:008][506]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.24.09:008][506]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.24.09:008][506]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.24.09:008][506]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Hold Validating asset
+[2024.12.18-17.24.37:656][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.24.37:656][398]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.24.37:656][398]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.24.37:656][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.24.37:656][398]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-17.24.37:660][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-17.24.37:668][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.24.37:702][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.18-17.24.37:703][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.12.18-17.24.37:703][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.12.18-17.24.37:708][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.12.18-17.24.37:715][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.24.37:719][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.12.18-17.24.37:802][399]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2024.12.18-17.24.46:065][574]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-17.24.46:074][574]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-17.24.46:075][574]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-17.24.46:077][574]LogWorldPartition: Display: GenerateStreaming for 'Main' took 2.794 ms (total: 218.087 ms)
+[2024.12.18-17.24.46:078][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.18-17.24.46:078][574]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.24.46:087][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008712s)
+[2024.12.18-17.24.46:087][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.008781s)
+[2024.12.18-17.24.46:122][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.12.18-17.24.46:125][574]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-17.24.46:127][574]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-17.24.46:127][574]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-17.24.46:127][574]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-17.24.46:127][574]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-17.24.46:128][574]LogWorldPartition: Display: WorldPartition initialize took 1.596 ms (total: 1.30 sec)
+[2024.12.18-17.24.46:129][574]LogPlayLevel: PIE: World Init took: (0.003669s)
+[2024.12.18-17.24.46:130][574]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.12.18-17.24.46:130][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-17.24.46:130][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-17.24.46:130][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-17.24.46:130][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-17.24.46:130][574]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-17.24.46:130][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-17.24.46:130][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-17.24.46:130][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-17.24.46:130][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-17.24.46:130][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-17.24.46:130][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-17.24.46:133][574]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-17.24.46:172][574]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-17.24.46:173][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-17.24.46:173][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-17.24.46:173][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-17.24.46:174][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.12.18-17.24.46:174][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.12.18-17.24.46:177][574]LogInit: FAudioDevice initialized with ID 42.
+[2024.12.18-17.24.46:177][574]LogAudio: Display: Audio Device (ID: 42) registered with world 'Main'.
+[2024.12.18-17.24.46:177][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.12.18-17.24.46:177][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.12.18-17.24.46:177][574]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.12.18-17.24.46:181][574]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-17.24.46:183][574]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.18-19.24.46
+[2024.12.18-17.24.46:184][574]LogWorld: Bringing up level for play took: 0.002487
+[2024.12.18-17.24.46:188][574]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2024.12.18-17.24.46:194][574]PIE: Server logged in
+[2024.12.18-17.24.46:196][574]PIE: Play in editor total start time 0.121 seconds.
+[2024.12.18-17.24.57:120][852]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.24.57:120][852]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-17.24.57:120][852]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-17.26.21:118][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.26.21:119][616]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2024.12.18-17.26.21:136][616]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2024.12.18-17.26.21:136][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2024.12.18-17.26.21:198][616]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.12.18-17.26.21:199][616]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/ABP_Manny185D04DF4FE58F90284005B4365F1819.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.12.18-17.26.21:200][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.990 ms (total: 1:02 min)
+[2024.12.18-17.26.21:233][616]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.26.21:233][616]LogContentValidation: Enabled validators:
+[2024.12.18-17.26.21:233][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.26.21:233][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.26.21:233][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.26.21:233][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.26.21:233][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.26.21:233][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.26.21:234][616]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Manny Validating asset
+[2024.12.18-17.26.54:292][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33060.980469
+[2024.12.18-17.26.54:669][662]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-17.26.54:669][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33061.304688, Update Interval: 334.672089
+[2024.12.18-17.27.28:339][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.27.28:340][575]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2024.12.18-17.27.28:353][575]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2024.12.18-17.27.28:354][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2024.12.18-17.27.28:406][575]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.12.18-17.27.28:407][575]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/ABP_Manny552D63024CC93B53764BD599470840AA.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.12.18-17.27.28:408][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.816 ms (total: 1:02 min)
+[2024.12.18-17.27.28:419][575]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.27.28:419][575]LogContentValidation: Enabled validators:
+[2024.12.18-17.27.28:420][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.27.28:420][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.27.28:420][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.27.28:420][575]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.27.28:420][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.27.28:420][575]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.27.28:420][575]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Manny Validating asset
+[2024.12.18-17.27.29:477][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.12.18-17.27.32:898][712]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.18-17.27.32:899][712]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.18-17.28.19:783][202]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.28.19:783][202]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.18-17.28.49:035][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.28.49:035][295]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.28.49:035][295]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.28.49:036][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.28.49:036][295]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-17.28.49:040][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-17.28.49:047][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.28.49:078][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.28.49:079][295]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.12.18-17.28.49:079][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.12.18-17.28.49:082][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.12.18-17.28.49:098][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.12.18-17.28.49:183][296]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2024.12.18-17.30.18:695][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.12.18-17.30.18:700][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Main' took 0.047
+[2024.12.18-17.30.18:700][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.30.18:713][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.30.18:714][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.30.18:747][196]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0
+[2024.12.18-17.30.18:747][196]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacter_Auto092100F1D460E0CC747E2F6B41C113C8C.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0.uasset'
+[2024.12.18-17.30.18:748][196]LogFileHelpers: Auto-saving content packages took 0.048
+[2024.12.18-17.31.08:944][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.31.09:001][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.31.09:011][798]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.31.09:011][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.31.09:036][798]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.18-17.31.09:036][798]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacter961C09904DEA3AB4099F30BDC8C2F964.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.18-17.31.09:046][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.429 ms (total: 1:02 min)
+[2024.12.18-17.31.09:101][798]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.31.09:101][798]LogContentValidation: Enabled validators:
+[2024.12.18-17.31.09:101][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.31.09:101][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.31.09:101][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.31.09:101][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.31.09:101][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.31.09:101][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.31.09:101][798]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.18-17.31.31:361][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.31.31:417][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.31.31:428][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.31.31:428][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.31.31:455][451]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.18-17.31.31:455][451]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacter98E1343B4A076221EE83EFB257F548D4.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.18-17.31.31:465][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.571 ms (total: 1:02 min)
+[2024.12.18-17.31.31:501][451]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.31.31:501][451]LogContentValidation: Enabled validators:
+[2024.12.18-17.31.31:501][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.31.31:501][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.31.31:501][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.31.31:501][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.31.31:501][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.31.31:501][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.31.31:501][451]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.18-17.31.45:946][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.31.46:002][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.31.46:015][897]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.31.46:015][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.31.46:039][897]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.18-17.31.46:040][897]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacter162E96494DA13B316C071C9FAFC35033.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.18-17.31.46:050][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.397 ms (total: 1:02 min)
+[2024.12.18-17.31.46:085][897]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.31.46:085][897]LogContentValidation: Enabled validators:
+[2024.12.18-17.31.46:085][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.31.46:085][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.31.46:085][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.31.46:086][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.31.46:086][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.31.46:086][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.31.46:086][897]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.18-17.31.47:348][937]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-17.31.47:356][937]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-17.31.47:356][937]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-17.31.47:358][937]LogWorldPartition: Display: GenerateStreaming for 'Main' took 2.243 ms (total: 220.330 ms)
+[2024.12.18-17.31.47:363][937]LogPlayLevel: [PlayLevel] Compiling ABP_Manny before play...
+[2024.12.18-17.31.47:363][937]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.12.18-17.31.47:565][937]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_71:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:038D
+[2024.12.18-17.31.47:565][937]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_23:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:038D
+[2024.12.18-17.31.47:741][937]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2024.12.18-17.31.47:743][937]LogPlayLevel: PlayLevel: Blueprint regeneration took 384 ms (2 blueprints)
+[2024.12.18-17.31.47:745][937]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.31.47:749][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003992s)
+[2024.12.18-17.31.47:749][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.004036s)
+[2024.12.18-17.31.47:774][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.12.18-17.31.47:777][937]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-17.31.47:778][937]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-17.31.47:778][937]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-17.31.47:778][937]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-17.31.47:778][937]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-17.31.47:780][937]LogWorldPartition: Display: WorldPartition initialize took 1.552 ms (total: 1.30 sec)
+[2024.12.18-17.31.47:780][937]LogPlayLevel: PIE: World Init took: (0.003531s)
+[2024.12.18-17.31.47:781][937]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.12.18-17.31.47:781][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-17.31.47:781][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-17.31.47:781][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-17.31.47:781][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-17.31.47:781][937]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-17.31.47:781][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-17.31.47:781][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-17.31.47:781][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-17.31.47:781][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-17.31.47:781][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-17.31.47:781][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-17.31.47:784][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-17.31.47:821][937]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-17.31.47:821][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-17.31.47:821][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-17.31.47:821][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-17.31.47:822][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.12.18-17.31.47:822][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.12.18-17.31.47:825][937]LogInit: FAudioDevice initialized with ID 43.
+[2024.12.18-17.31.47:825][937]LogAudio: Display: Audio Device (ID: 43) registered with world 'Main'.
+[2024.12.18-17.31.47:825][937]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.12.18-17.31.47:826][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.12.18-17.31.47:826][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.12.18-17.31.47:828][937]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-17.31.47:830][937]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.18-19.31.47
+[2024.12.18-17.31.47:831][937]LogWorld: Bringing up level for play took: 0.002151
+[2024.12.18-17.31.47:834][937]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2024.12.18-17.31.47:841][937]PIE: Server logged in
+[2024.12.18-17.31.47:842][937]PIE: Play in editor total start time 0.486 seconds.
+[2024.12.18-17.32.00:639][435]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.32.00:639][435]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-17.32.00:639][435]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-17.32.04:175][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.32.04:176][579]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.32.04:176][579]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.32.04:176][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.32.04:176][579]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-17.32.04:181][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-17.32.04:187][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.32.04:218][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.32.04:218][579]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.12.18-17.32.04:218][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.12.18-17.32.04:221][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.12.18-17.32.04:229][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.12.18-17.32.04:397][580]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2024.12.18-17.32.08:549][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-17.32.08:602][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.18-17.32.08:614][683]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.18-17.32.08:614][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.18-17.32.08:645][683]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.18-17.32.08:645][683]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BP_ThirdPersonCharacterDF4A3D80424D0F4F7808CF813C2287FF.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.18-17.32.08:656][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.090 ms (total: 1:02 min)
+[2024.12.18-17.32.08:718][683]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-17.32.08:719][683]LogContentValidation: Enabled validators:
+[2024.12.18-17.32.08:719][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-17.32.08:719][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-17.32.08:719][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-17.32.08:719][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-17.32.08:719][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-17.32.08:719][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-17.32.08:719][683]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.18-17.32.10:520][740]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.18-17.32.10:527][740]LogContentBundle: [Main(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.18-17.32.10:527][740]LogWorldPartition: Display: GenerateStreaming for 'Main' started...
+[2024.12.18-17.32.10:529][740]LogWorldPartition: Display: GenerateStreaming for 'Main' took 2.081 ms (total: 222.411 ms)
+[2024.12.18-17.32.10:533][740]LogPlayLevel: [PlayLevel] Compiling ABP_Manny before play...
+[2024.12.18-17.32.10:534][740]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.12.18-17.32.10:638][740]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_71:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:038D
+[2024.12.18-17.32.10:639][740]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_23:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:038D
+[2024.12.18-17.32.10:795][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.12.18-17.32.10:798][740]LogPlayLevel: PlayLevel: Blueprint regeneration took 267 ms (2 blueprints)
+[2024.12.18-17.32.10:798][740]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.32.10:802][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003891s)
+[2024.12.18-17.32.10:802][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Main.Main to /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main (0.003925s)
+[2024.12.18-17.32.10:831][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.12.18-17.32.10:833][740]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2024.12.18-17.32.10:835][740]LogWorldPartition: ULevel::OnLevelLoaded(Main)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.18-17.32.10:835][740]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.18-17.32.10:835][740]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.18-17.32.10:835][740]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.18-17.32.10:837][740]LogWorldPartition: Display: WorldPartition initialize took 1.679 ms (total: 1.30 sec)
+[2024.12.18-17.32.10:837][740]LogPlayLevel: PIE: World Init took: (0.003904s)
+[2024.12.18-17.32.10:838][740]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.12.18-17.32.10:838][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.18-17.32.10:838][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.18-17.32.10:838][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.18-17.32.10:838][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.18-17.32.10:838][740]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.18-17.32.10:838][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.18-17.32.10:838][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.18-17.32.10:838][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.18-17.32.10:838][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.18-17.32.10:838][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.18-17.32.10:838][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.18-17.32.10:841][740]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.18-17.32.10:876][740]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- HyperX Cloud Flight for PS)
+[2024.12.18-17.32.10:876][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.18-17.32.10:876][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.18-17.32.10:876][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.18-17.32.10:877][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.12.18-17.32.10:877][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.12.18-17.32.10:880][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.12.18-17.32.10:880][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.12.18-17.32.10:880][740]LogInit: FAudioDevice initialized with ID 44.
+[2024.12.18-17.32.10:880][740]LogAudio: Display: Audio Device (ID: 44) registered with world 'Main'.
+[2024.12.18-17.32.10:880][740]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.12.18-17.32.10:883][740]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.18-17.32.10:886][740]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.12.18-19.32.10
+[2024.12.18-17.32.10:886][740]LogWorld: Bringing up level for play took: 0.002188
+[2024.12.18-17.32.10:889][740]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2024.12.18-17.32.10:895][740]PIE: Server logged in
+[2024.12.18-17.32.10:896][740]PIE: Play in editor total start time 0.369 seconds.
+[2024.12.18-17.32.58:165][470]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.18-17.32.58:165][470]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.18-17.32.58:165][470]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.18-17.32.59:565][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.32.59:565][524]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Main
+[2024.12.18-17.32.59:566][524]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-17.32.59:566][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.32.59:566][524]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_Main.Main
+[2024.12.18-17.32.59:570][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.18-17.32.59:577][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-17.32.59:604][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.18-17.32.59:604][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.12.18-17.32.59:604][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.12.18-17.32.59:606][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.12.18-17.32.59:718][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.12.18-17.32.59:947][525]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2024.12.18-17.33.02:381][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33428.925781
+[2024.12.18-17.33.03:240][609]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.18-17.33.03:240][609]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33429.746094, Update Interval: 311.898560
+[2024.12.18-17.33.13:472][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Content: 'D:/Unreal Engine/UE_5.5/Engine/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:472][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:472][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:472][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:472][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:472][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:472][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:472][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:473][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:474][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:475][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:475][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:475][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:475][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:475][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:475][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:475][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:476][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Fab/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/ChaosVD/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.13:477][ 58]SourceControl: fatal: D:/Unreal Engine/UE_5.5/Engine/Plugins/Bridge/Content: 'D:/Unreal Engine/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'D:/Unreal projects/SANTAS_LITTLE_HEIST'
+[2024.12.18-17.33.34:733][ 58]LogSlate: Window 'Submit Files' being destroyed
+[2024.12.18-17.33.37:204][ 58]LogSourceControl: commit successful: [master 54e296c] Improve item pickup physics
+[2024.12.18-17.33.37:459][ 58]SourceControl: [master 54e296c] Improve item pickup physics
+[2024.12.18-17.33.37:459][ 58]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2024.12.18-17.33.37:459][ 58]SourceControl:  create mode 100644 Content/Characters/Mannequins/Animations/Manny/MM_Hold.uasset
+[2024.12.18-17.33.37:482][ 58]SourceControl: Commited [master 54e296c] Improve item pickup physics.
