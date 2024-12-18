@@ -6257,3 +6257,39 @@ Sampler Limit: 32
 [2024.12.18-22.29.39:875][110]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/NJ69HO0EVHDKYKYF5PLL3C_Auto47BAEE7044E35611D9F42B79929C9140C.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Main/4/NO/NJ69HO0EVHDKYKYF5PLL3C_Auto4.uasset'
 [2024.12.18-22.29.39:876][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Main' took 0.035
 [2024.12.18-22.29.39:876][110]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.12.18-22.32.08:007][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.18-22.32.09:451][624]LogSlate: Window 'Save Content' being destroyed
+[2024.12.18-22.32.09:582][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.32.09:645][624]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Main/4/NO/NJ69HO0EVHDKYKYF5PLL3C
+[2024.12.18-22.32.09:645][624]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/NJ69HO0EVHDKYKYF5PLL3C28ABE31E457E4DCEE09FFB80A787E5E6.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/__ExternalActors__/ThirdPerson/Maps/Main/4/NO/NJ69HO0EVHDKYKYF5PLL3C.uasset'
+[2024.12.18-22.32.09:654][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.534 ms (total: 16.3 sec)
+[2024.12.18-22.32.09:709][624]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.32.09:709][624]LogContentValidation: Enabled validators:
+[2024.12.18-22.32.09:709][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.32.09:709][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.32.09:709][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.32.09:709][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.32.09:709][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.32.09:709][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.32.09:709][624]AssetCheck: /Game/ThirdPerson/Maps/Main Validating asset
+[2024.12.18-22.32.10:915][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.18-22.32.10:960][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BB_AI_Character] ([2] browsable assets)...
+[2024.12.18-22.32.11:038][661]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BB_AI_Character.BB_AI_Character]
+[2024.12.18-22.32.11:038][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_AI_Character]
+[2024.12.18-22.32.11:038][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_AI_Character" FILE="../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset" SILENT=true
+[2024.12.18-22.32.11:045][661]LogSavePackage: Moving output files for package: /Game/AI/BB_AI_Character
+[2024.12.18-22.32.11:045][661]LogSavePackage: Moving '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Saved/BB_AI_Character10A873BE4C9988D046825B9007B0D48B.tmp' to '../../../../../Unreal projects/SANTAS_LITTLE_HEIST/Content/AI/BB_AI_Character.uasset'
+[2024.12.18-22.32.11:054][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.240 ms (total: 16.4 sec)
+[2024.12.18-22.32.11:109][661]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.18-22.32.11:109][661]LogContentValidation: Enabled validators:
+[2024.12.18-22.32.11:109][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.18-22.32.11:109][661]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.18-22.32.11:109][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.18-22.32.11:109][661]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.18-22.32.11:109][661]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.18-22.32.11:109][661]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.18-22.32.11:110][661]AssetCheck: /Game/AI/BB_AI_Character Validating asset
+[2024.12.18-22.32.12:810][727]LogSlate: Window 'BB_AI_Character' being destroyed
+[2024.12.18-22.32.12:821][727]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.12.18-22.32.12:821][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.18-22.32.12:904][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
